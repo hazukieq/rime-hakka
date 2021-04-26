@@ -1,4 +1,5 @@
 # rime-hakka
+
 # The dictionary of  the kakka dialect of the Gaufung
 #  This dictionary is made by hazuki erii.
 # -广西玉林兴业县高峰乡客家话字典
