@@ -22,7 +22,7 @@
 #
 
 schema:
-  schema_id: kakka_pinyin_sangdiau
+  schema_id: hakka_pinyin_sangdiau
   name: 客家话有声调拼音方案
   version: "0.19"
   author:
@@ -84,6 +84,7 @@ speller:
     #- xform/^(si)/shi/ #恢复拼音方案中sh的输入
     #- xform/^(zi)/zshi/ #恢复拼音方案中zsh的输入
     #- xform/^(ci)/cshi/ #恢复拼音方案中csh的输入
+    - derive/w/u/ 
     #- derive/^q/$1/#允许零声母输入,a=qa,e=qe,o=qo,u=qu
     - derive/im$/in/#模糊输入in=im
     - derive/em$/en/#模糊输入en=em
@@ -134,6 +135,10 @@ translator:
     - 'xform u/ ú'
     - 'xform u[<,] ǔ'
     - 'xform u[>.\\] ù'
+    - 'xform w[-;] w¹'
+    - 'xform w/ w² '
+    - 'xform w[,>] w³'
+    - 'xform w[>.\\] w⁴'
     - 'xform ngh- ngh'
     - 'xform ngh/ ńgh'
     - 'xform ngh, ňgh'
@@ -169,6 +174,10 @@ translator:
     - xform/u2/ú/
     - xform/u3/ǔ/
     - xform/u4/ù/
+    - xform/w1/w¹/
+    - xform/w2/w²/
+    - xform/w3/w³/
+    - xform/w4/w⁴/
     - xform/([ptk])1/$1¹/
     - xform/([ptk])2/$1²/
     - xform/mh[0-5]?/mh/
