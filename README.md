@@ -6,6 +6,10 @@ This dictionary is made by hazuki erii.
 广西玉林兴业县高峰乡客家话字典
 
 该字典由叶月绘梨依整理同制作。
+
+
+---
+
  
 ## 特此说明
 ## Introduction
