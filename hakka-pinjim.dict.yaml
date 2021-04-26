@@ -1,0 +1,10465 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# The dictionary of  the kakka dialect of the Gaufung
+#  This dictionary is made by hazuki erii.
+# -广西玉林兴业县高峰乡客家话字典
+#  该字典由叶月绘梨依整理同制作。
+#
+# 特此说明
+# Introduction
+#------------------
+#  本客家话字典的发音皆取自于高峰镇龙文村龙源坪。
+#  The kakka pronounciation is from lung nzien piang of the lung vun country of the gaufung.
+#------------------
+#   其中发音，既收集后生人用的(不太标准的掺杂普通话的客家话发音)，又采集老一辈人的发音以及旧时读书用的读书音(即文读音)，同时也斟酌收录古代客家话读音(主要来自韵书,切韵等)。
+# 即，汉字的读音收录原则为，应收尽收，如有些汉字无对应客家读音则有边读边，或采用普通话读音的变体(由于化学、医学等学科中有些字是新造的，故其读音多采用普通话变体）；但更多的读音是既考虑当地客家话读音，又酌情对照古代韵书(广韵，集韵)的反切读音，而进行收录的。
+#
+#  故，每只汉字都可能有好多只不同的读音(口语音，老一代用的读音，古代宋明清时的读音，后生中较流行的读音，小孩仿普通话的读音)
+#
+#本字典收录开通用规范汉字约8000个以上，并为其标注上相对应的客家读音。同时，由于个人能力有限，在词汇收录上、审音上不免会犯错，故会随时进行補充修改，望多多担待。
+# 也希望各位同乡能有所指正，以便更好的改进本字典收录的字音。
+#
+---
+name: kakka-pinjim
+version: "2021.04.01"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+    - hakka-zon #高峰客家话专用词汇典
+    - places #地名 
+    - sougou #搜狗基础词汇典
+    - google-words #谷歌常用词集
+...
+
+一	jit1
+乙	jet1
+二	nzi4
+十	sip2
+丁	den1
+厂	cong3
+七	cit1
+卜	puk1
+卜	pok1
+八	bat1
+人	nzin2
+入	nzip2
+儿	nzi1
+儿	nzi2
+儿	r
+儿	ji2
+匕	bi3
+几	gi3
+九	giu3
+了	liau2
+了	liau3
+乃	nai1
+乃	nai3
+刀	dau1
+力	lit2
+又	jiu4
+三	tham1
+干	gon1
+干	gan
+干	gan4
+于	ji2
+於	ji1
+於	jo1
+於	qu1
+于	qu2
+于	jo2
+亏	kui1
+士	thu4
+土	tu3
+工	gung1
+才	coi2
+才	cai2
+下	ha1
+下	ha
+下	ha4
+寸	cun4
+丈	zong4
+丈	cong4
+大	tai4
+与	ji1
+与	jo1
+万	van4
+万	man4
+上	song1
+上	song4
+小	thiau3
+口	keu3
+口	heu3
+山	than1
+巾	gin1
+巾	gun1
+千	cen1
+乞	hat1
+乞	ket1
+川	con1
+亿	jit2
+介	gai4
+个	ge3
+个	go4
+夕	cit1
+么	mo2
+么	mo1
+久	giu3
+勺	sok2
+丸	jen2
+丸	van2
+元	nzien2
+元	jen2
+凡	fan2
+及	kip1
+及	kip2
+及	gip1
+广	gong3
+亡	mong2
+亡	vong2
+门	mun2
+丫	qa1
+丫	ja1
+义	ji4
+义	nzi4
+之	zi1
+之	di1
+尸	si1
+己	gi3
+已	ji3
+巳	si4
+巳	thu4
+弓	giung1
+弓	gung1
+子	zu3
+卫	vui4
+也	ja1
+女	ngh3
+女	nzio3
+女	nio3
+刃	nziun1
+飞	fui1
+飞	bui1
+习	thip2
+叉	ca1
+马	ma1
+马	ma3
+乡	song1
+乡	hiong1
+丰	fung1
+王	vong2
+王	qong2
+开	koi1
+开	hoi1
+开	kai1
+井	ziang3
+天	ten1
+夫	fu1
+夫	pu1
+无	vu2
+无	mo2
+无	mu2
+云	jun2
+云	hun2
+专	zon1
+丐	koi4
+丐	kai4
+丐	gai4
+扎	zap1
+艺	nzi4
+艺	nge4
+木	muk1
+五	ngh3
+五	ngu3
+五	ngo3
+支	gi1
+支	zi1
+厅	tang1
+不	but1
+不	bioi4
+不	bu4
+太	tai4
+犬	ken3
+区	ki1
+区	ku1
+历	lit2
+历	lak2
+歹	dai3
+友	jiu1
+友	jiu3
+尤	jiu2
+尤	jiu1
+匹	pit1
+车	ca1
+车	gi1
+巨	ki3
+巨	gi3
+巨	gio3
+牙	nga2
+屯	tun2
+戈	go1
+比	bi3
+互	fu4
+切	cet1
+瓦	nga3
+止	zi3
+少	sau3
+少	sau4
+曰	jok1
+曰	jat1
+曰	jet1
+日	nzit1
+中	zung1
+中	zung4
+中	diung1
+贝	bui4
+贝	bi4
+冈	gong1
+内	nui4
+水	sui3
+见	gen4
+午	ngu3
+午	ngh3
+牛	nziu2
+手	siu3
+气	ki4
+气	si4
+毛	mau1
+壬	nzim2
+升	sin1
+夭	jau1
+长	cong2
+长	zong3
+长	dang2
+仁	nzin2
+仁	jin2
+什	sip2
+片	pen3
+仆	pok1
+仆	bok1
+仆	puk1
+化	fa4	
+仇	siu3
+仇	ciu3
+币	bi4
+仍	nzin1
+仍	jin
+仅	kiun3
+斤	gin1
+爪	nziau3
+爪	zau3
+反	fan3
+介	gai4
+父	pu3
+父	fu4
+从	cung2
+仑	lun2
+仑	lin2
+今	gim1
+今	gin1
+凶	sung1
+分	fun1
+分	bun1
+乏	fat2
+公	gung1
+仓	cong1
+月	nziet2
+氏	si4
+勿	vut2
+勿	mut2
+欠	kiam4
+风	fung1
+风	biung1
+丹	dan1
+匀	jun2
+乌	vu1
+乌	qu1
+乌	qo1
+勾	geu1
+勾	ngeu1
+凤	fung4
+凤	biung4
+六	luk1
+文	vun2
+文	mun2
+亢	kong4
+亢	kang4
+亢	hong2
+方	fong1
+方	piong1
+方	pang1
+火	fo3
+为	vui4
+为	vui2
+斗	deu3
+忆	jit2
+忆	jet2
+计	ge4
+订	dang4
+订	deng4
+户	fu4
+户	hu4
+认	nzin4
+冗	nziung3
+冗	nziung4
+冗	nziong3
+冗	jung3
+讥	gi1
+心	thim1
+尺	cak1
+引	jin3
+丑	ciu3
+巴	ba1
+扈	fu4
+孔	kung3
+队	dui4
+办	pan4
+以	ji1
+刃	nziun1
+炽	ci4
+允	jun3
+予	ji1
+邓	ten4
+邓	teng4
+劝	ken4
+双	thung1
+双	thong1
+书	su1
+幻	von4
+幻	van4
+玉	nziuk2
+刊	kan1
+末	mat2
+未	mi4
+未	mui4
+未	vui4
+示	si4
+击	git1
+打	da3
+巧	kiau3
+正	zin4
+正	zang4
+正	zang1
+扑	puk1
+扑	pok1
+卉	fui4
+扒	bat1
+功	gung1
+扔	nzin1
+扔	jin1
+去	si4
+去	ki4
+去	ku4
+甘	gam1
+世	si4
+世	se4
+艾	nzioi4
+艾	ngoi4
+古	gu3
+节	zet1
+本	bun3
+术	sut2
+可	ko3
+可	ka3
+丙	biang3
+左	zo3
+厉	li4
+石	sak2
+右	jiu4
+布	bu4
+夯	hang1
+戊	vu4
+龙	lung2
+平	pin2
+平	piang2
+灭	met2
+轧	zap1
+东	dung1
+卡	ka3
+北	bet1
+占	zam4
+凸	tu1
+凸	tut2
+卢	lu2
+业	nziap2
+旧	kiu4
+帅	thai4
+归	gui1
+目	muk1
+旦	dan4
+且	cia3
+叮	dang1
+叶	jap2
+甲	gak1
+甲	gap1
+佮	gap1
+申	sin1
+号	hau4
+电	ten4
+田	ten2
+由	jiu2
+只	zak1
+只	zi3
+只	zit1
+叭	ba1
+央	jong1
+央	qiong1
+史	thu3
+兄	sung1
+兄	hiung1
+叽	gi1
+叼	diau1
+叫	giau4
+叩	keu4
+叨	dau1
+另	lang4
+另	lin4
+叹	tan4
+冉	nziam3
+皿	min3
+凹	nziap1
+凹	qau1
+囚	siu2
+四	thi4
+生	thang1
+矢	ci3
+失	sit1
+乍	zok1
+乍	zak1
+禾	vo2
+丘	ciu1
+丘	kiu1
+付	fu4
+仗	zong4
+仗	diong4
+代	toi4
+代	dai4
+仙	then1
+们	mun2
+仪	nzi2
+白	pak2
+仔	ze3
+仔	zai3
+他	ta1
+斥	cak2
+瓜	ga1
+乎	fu1
+丛	cung2
+令	lin4
+令	lang4
+用	jung4
+甩	fit2
+印	jin4
+印	jang4
+尔	nzi2
+尔	ni1
+乐	lok2
+乐	ngok2
+句	gi4
+句	gu4
+匆	cung1
+册	cak1
+卯	mau3
+犯	fan4
+外	ngoi4
+处	cu4
+冬	dong1
+冬	dung1
+鸟	diau1
+鸟	nziau1
+务	mu4
+包	bau1
+饥	gi1
+主	zu3
+市	si1
+立	lip2
+冯	pang4
+冯	pang2
+立	lap2
+玄	hen2
+玄	sen2
+闪	sam3
+兰	lan2
+半	ban4
+汁	zip1
+汇	fui4
+头	teu2
+汉	han4
+汉	hon4
+宁	neng2
+宁	nen2
+宁	nin2
+宁	len2
+穴	set1
+它	ta1
+讨	tau3
+写	thia3
+让	nziong4
+礼	li1
+礼	le1
+训	sun4
+必	bit1
+议	nzi4
+议	ji4
+讯	thin4
+讯	sun4
+记	gi4
+永	qiung3
+永	jung3
+永	jun3
+司	thu1
+尼	ni2
+尼	nai2
+民	min2
+弗	fut1
+弗	but1
+弘	hung2
+弘	fung2
+弘	sung2
+出	cut1
+唾	tui4
+唾	to4
+辽	liau2
+奶	na1
+奶	nai1
+奴	no2
+奴	nu2
+召	diau4
+召	cau4
+加	ga1
+皮	pi2
+边	ben1
+孕	jun4
+发	fat1
+圣	sin4
+对	dui4
+对	doi4
+台	toi2
+矛	mau2
+纠	giu4
+纠	gau3
+母	mu1
+幼	jiu4
+丝	thi1
+邦	bong1
+式	sit1
+迂	ji1
+刑	sin2
+戎	jung2
+动	tung4
+扛	gong1
+寺	thu4
+吉	git1
+吉	get1
+扣	kau4
+扣	keu4
+考	kau3
+托	tok1
+老	lau3
+巩	kung3
+圾	kip1
+圾	thap1
+执	zip1
+扩	kong4
+扩	kok1
+扫	thau3
+扫	thau4
+地	ti4
+扬	jong2
+场	cong3
+场	tang2
+耳	nzi3
+芋	vu4
+共	kiung4
+共	gung4
+芒	mong1
+亚	qa1
+亚	ja4
+芝	zi1
+朽	jiu3
+朽	thiu3
+朴	piau2
+朴	puk1
+朴	pok1
+机	gi1
+权	ken2
+过	go4
+臣	sin2
+吏	li4
+再	zai4
+协	sap2
+西	the1
+西	thi1
+压	qat1
+厌	jan4
+戌	sut1
+戌	thut1
+在	zai4
+在	coi1
+百	bak1
+有	jiu1
+有	qiu1
+存	cun2
+而	nzi2
+而	ji2
+页	jap2
+匠	thiong4
+夸	ka1
+夺	tot2
+灰	foi1
+达	tat2
+列	let2
+死	thi3
+成	sin2
+成	sang2
+夹	gap1
+夹	giap2
+夹	kiap2
+夷	ji2
+轨	gui3
+邪	thia2
+邪	jai2
+尧	nziau2
+尧	ngau2
+划	vak2
+掝(vak5,分拨开)	vak1
+㩇(vak5,挥动)	vak1
+划	fa4
+迈	mai4
+毕	bit1
+至	zi4
+此	cu3
+此	ci3
+此	ce3
+贞	zin1
+师	thu1
+尘	cin2
+尖	ziam1
+劣	lot2
+光	gong1
+当	dong1
+早	zau3
+吁	qu1
+吁	ji1
+吐	tu4
+吓	hak1
+虫	cung2
+曲	kiuk1
+团	ton2
+吕	lu1
+吕	li3
+同	tung2
+吊	diau4
+吃	hat1
+因	jin1
+吸	kip1
+吗	ma1
+吆	jau1
+屿	ji3
+屹	jit2
+岁	thoi4
+帆	fan1
+回	fui2
+岂	ki3
+则	zet1
+刚	gong1
+网	mong3
+肉	nziuk1
+年	nzien2
+朱	zu1
+先	then1
+丢	diu1
+廷	tin2
+舌	set2
+竹	zuk1
+迁	cen1
+迁	ciam1
+乔	kiau2
+迄	hit1
+迄	qet1
+伟	vui3
+传	con2
+传	zon4
+乒	bin1
+乒	pin1
+乓	bong1
+乓	pong1
+休	jau1
+休	thiu1
+伍	ngh3
+伏	puk2
+优	jiu1
+臼	kiu4
+伐	fat2
+延	jen2
+仲	zung4
+仲	diung4
+件	ken4
+任	nzim4
+伤	song1
+价	ga4
+伦	lun2
+伦	lin2
+份	fun4
+华	fa2
+仰	ngong3
+仿	fong3
+伙	fo3
+伪	vui3
+自	cu4
+伊	ji1
+血	set1
+向	song4
+似	si4
+后	heu4
+行	hang2
+行	hong2
+舟	ziu1
+全	con2
+会	fui4
+会	voi4
+杀	that1
+合	hap2
+兆	zau4
+兆	sau4
+企	ki3
+众	zung4
+爷	ja3
+伞	than3
+创	cong4
+肌	gi1
+肋	lak2
+朵	do3
+杂	cap2
+危	ngui2
+危	mui2
+危	vui1
+旬	thun2
+旬	sun2
+旬	cun2
+旨	zi3
+旭	siuk1
+旭	suk1
+旭	hiok1
+负	fu4
+各	gok1
+匈	sung1
+匈	hiung1
+名	miang2
+多	do1
+争	zang1
+色	thet1
+壮	zong4
+冲	cung1	
+妆	zong1
+冰	ben1
+冰	bin1
+庄	zong1
+庆	kin4
+亦	jit2
+刘	liu2
+齐	ce2
+交	gau1
+次	cu4
+衣	ji1
+产	than3
+决	ket1
+亥	hoi4
+亥	hai4
+充	cung1
+妄	mong3
+妄	vong3
+闭	bi4
+问	mun4
+闯	cong3
+羊	jong2
+並	bin4
+并	bin4
+并	pin4
+关	gon1	
+米	mi3
+灯	den1
+州	ziu1
+汗	hon4
+污	vu1
+污	mu1
+江	gong1
+汛	thin4
+汛	sun4
+池	ci2
+池	di2
+汝	nzia1
+汤	tong1
+忙	mong2
+兴	sin1
+兴	sin4	
+宇	ji3
+宇	qu3
+守	siu3
+宅	cak2
+字	thu4
+安	qon1
+讲	gong3
+军	giun1
+讳	fui3
+讳	vui3
+讶	nga4
+许	si3
+许	hi3
+讹	ngo2
+讼	thung4
+论	lun4
+农	nung2
+讽	fung1
+设	set1
+访	bong3
+访	fong3
+诀	ket1
+寻	cim2
+那	na4
+迅	thin4
+迅	sun4
+尽	cin4	
+尽	zin4
+导	tau3
+导	dau3
+异	jit2
+孙	thun1
+弛	ci2
+弛	di2
+阵	zin3
+阳	jong2
+收	siu1
+阶	gai1
+阴	jim1
+防	bong2
+防	fong2
+奸	gan1
+如	ji2
+如	nzio2
+妇	fu4
+妇	pu1
+妇	bu1
+妃	fui1
+好	hau3
+她	ta1
+妈	ma2
+戏	si4
+羽	ji3
+观	gon1
+欢	fon1
+买	mai1
+红	fung2
+红	qung2
+驮	to3
+纤	ciam1
+驯	sun4
+约	jok1
+级	kip1
+纪	gi4
+驰	ci2
+纫	nziun4
+巡	sun2
+寿	siu4
+弄	lung3
+弄	nung4
+麦	mak2
+玖	giu3
+玛	ma3
+形	sin2
+进	zin4
+戒	gai4
+吞	tun1
+远	jen3
+违	vui2
+韧	nziun4
+韧	nzin4
+运	jun4
+扶	pu2
+扶	fu2
+抚	fu3
+抚	pu3
+抚	vu3
+坛	tan2
+技	ki2
+技	gi2
+坏	fai4
+抠	keu1
+扰	jiu1
+扰	jau3
+扼	ngak2
+扼	qak2
+拒	ki3
+拒	kio3
+㓟	pai1
+睥	pe4
+找	zau3
+批	pi1
+址	ci3
+址	zi3
+扯	ce3
+㨋	ca3
+扯	ci1
+走	zeu3
+抄	cau1
+坝	ba4
+坝	bi1
+贡	gung4
+汞	gung3
+攻	gung1
+赤	cak1
+折	zet1
+折	zat1
+抓	za1
+抓	zau3
+抓	nziau3
+扳	ban3
+抡	lun1
+扮	ban4
+扮	pan4
+抢	ciong3
+孝	hau4
+坎	kam3
+坎	kam4
+均	jun2
+抑	jit2
+抛	pau1
+投	teu2
+坟	fun2
+坟	vun2
+坑	hang1
+坑	kang1
+抗	kong4
+坊	fong3
+坊	piong3
+抖	deu3
+护	fu4
+护	qu4
+壳	hok1
+志	zi4
+块	kai4
+扭	niu3
+扭	neu3
+扭	nziu3
+声	sang1	
+把	ba3
+报	bau4
+拟	ni3
+拟	nzi3
+却	kiok1
+却	kiok2
+抒	su1
+劫	giap1
+芙	fu2
+芙	pu2
+芜	mu2
+芜	vu2
+苇	vui3
+芽	nga2
+花	fa1
+芹	kiun2
+芥	gai4
+芬	fun1
+苍	cong1
+芳	fong1
+芳	pang1
+芳	pong1
+严	nziam2
+芦	lu2
+芯	thim1
+劳	lau2
+克	ket1
+芭	ba1
+苏	thu1
+杆	gon1
+杜	tu4
+杠	gong4
+材	coi2
+村	cun1
+杖	zong4
+杏	hen4
+杉	cam4
+杉	tham1
+巫	vu1
+巫	mu1
+极	git1
+极	kit1
+极	gip1
+极	kip1
+李	li3	
+杨	jong2
+求	kiu2
+甫	pu3
+匣	gap1
+匣	hap2
+更	gang1
+更	gong1
+吾	ngo2
+吾	ngai2
+束	cuk1
+吾	ngu2
+豆	teu4
+两	liong3
+酉	jiu1
+
+#到埕矣
+丽	li4
+医	ji1
+辰	sin2
+励	li4
+否	feu3
+还	han3
+还	van3
+还	hai2
+尬	ga4
+尬	gai4
+歼	ciam1
+来	loi2
+来	lai2
+连	len2
+轩	sen1
+步	pu4
+卤	lu2
+坚	gen1
+肖	thiau1
+旱	hon4
+盯	den1
+盯	din1
+盯	dang1
+呈	cin2
+时	si2
+吴	ng2
+吴	ngo2
+吴	ngu2
+助	cu4
+县	jen4
+县	qien4
+里	li1
+呆	dai1
+呆	ngong4
+吱	zi1
+吱	gi1
+吠	poi4
+呕	qeu3
+园	jen2
+旷	kong3
+围	vui2
+呀	ja3
+吨	dun1
+足	zuk1
+邮	jiu2
+男	nan2
+困	kun4
+吵	cau2
+吵	cau4
+串	con4
+员	jen2
+呐	nap2
+呐	nut1
+呐	na4
+呐	not2
+听	tang1
+听	tang4
+吟	nzim2
+吩	pun1
+吩	fun1
+吹	cui1
+呛	cong4
+吻	vut2
+吻	vun3
+吻	mun3
+吹	cui1
+吭	kang1
+吭	hang1
+呜	qu1
+呜	vu1
+吼	hung3
+吼	kung3
+吧	ba3
+邑	jip2
+吼	hau3
+吼	heu3
+别	pet2
+囤	tun2
+囤	dun3
+吮	sun3
+吮	nziot2
+岖	ki1
+岗	gong1
+帐	zong4
+财	coi2
+钉	dang1
+针	zim1
+牡	mo3
+牡	meu3
+牡	mu3
+告	gau4
+我	nga1
+乱	lon4
+利	li4
+秃	tut1
+秀	thiu4
+私	thu1
+每	mui1
+兵	bin1
+估	gu1
+体	ti3
+何	ho2
+佐	zo3
+佑	jiu4
+但	dan4
+伸	sin1
+伸	cun1
+佃	ten4
+佃	ten2
+作	zok1
+伯	bak1
+伶	leng2
+伶	lang2
+伶	lin2
+佣	jung1
+低	dai1
+你	nzi2	70%
+你	ni2	70%
+住	cu4
+住	zu4
+位	vui4
+伴	ban4
+伴	pan4
+身	sin1
+皂	cau4
+皂	zau3
+伺	cu4
+佛	but2
+佛	fut2
+囱	tung1
+囱	cung1
+近	kiun1
+近	gin4
+彻	cet1
+役	jit2
+返	fan3
+余	ji2
+希	si1
+坐	co1
+谷	guk1
+妥	to3
+含	ham2
+邻	lin2
+岔	ca4
+肝	gon1
+肛	gong1
+肚	du3
+肘	ziu3
+肠	cong2
+龟	gui1
+甸	dem1
+甸	tem4
+免	men1
+狂	kong2
+犹	jiu2
+狈	bui4
+狈	boi4
+角	gok1
+删	than1
+条	tiau2
+彤	tung2
+卵	lon3
+灸	giu3
+岛	dau3
+刨	pau2
+迎	nziang2
+饭	fan4
+饭	pan4
+饮	nzim3
+系	he4
+系	hai4
+系	hai3
+言	nzien2
+冻	dung4
+状	cong4
+亩	meu3
+况	kong4
+床	cong2
+库	ku4
+庇	bi3
+庇	pi4
+疗	liau2
+吝	lin4
+应	jin4
+应	jin1
+冷	lang1
+这	zia4
+这	ze4
+庐	lu2
+序	thi4
+辛	sin1
+辛	thin1
+弃	ki4
+弃	si4
+冶	ja1
+忘	mong4
+闰	jun4
+闲	han2
+间	gan1
+闷	mun1
+判	pan4
+判	pun4
+兑	dui4
+灶	zau4
+灿	cam4
+灼	ziok1
+弟	ti4
+弟	tai1
+汪	vong4
+灼	sok2
+沐	muk1
+沐	mu4
+沛	pui4
+沛	fui4
+汪	vong4
+汰	tai4
+沥	lit2
+沥	lak2
+沙	tha1
+汽	si4
+沃	vok1
+沦	lun2
+汹	sung1
+泛	fan4
+沟	geu1
+没	mut2
+沧	cong1
+没	mo4
+沪	fu4
+沈	sim3
+沉	cim2
+沁	cim4
+沁	sim4
+怀	fai2
+忧	jiu1
+忧	jau1
+忱	sim3
+忱	zim3
+快	kai4
+完	ngan2
+完	van2
+完	von2
+宋	thung4
+宏	fen2
+宏	qong2
+宏	hung2
+牢	lau2
+究	giu4
+穷	kiung2
+灾	zai1
+良	liong2
+证	zin4
+启	ki3
+评	pin2
+评	piang2
+补	bu3
+补	pu3
+初	co1	
+社	sa1
+祀	thu4
+识	sit1
+诈	za4
+诉	su4
+罕	hon3
+罕	han3
+诊	zin3
+词	cu2
+译	jit2
+君	giun1
+灵	lin2
+即	zit1
+层	cen2
+层	cang2
+层	cin2
+屁	pi4
+尿	nziau4
+尾	mui1
+迟	ci2
+迟	di2
+局	kiuk2
+改	goi3
+张	zong1
+忌	ki3
+忌	gi4
+际	zi4
+陆	luk2
+阿	qo1
+阿	qa1
+陈	cin2
+陈	dang2
+阻	zu3
+阻	zo3
+附	fu4
+坠	cui4
+妓	gi4
+妙	miau4
+妖	jau1
+姊	zi3
+妨	fong2
+妒	du4
+妒	tu4
+努	nu3
+努	no3
+忍	nziun1
+劲	gin4
+矣	ji2
+矣	qe2
+鸡	gai1
+鸡	ge1
+纬	vui3
+驱	ki1
+驱	kia4
+纯	cun2
+纱	tha1
+纲	gong1
+纳	nap2
+纵	zung3
+驳	bok1
+纷	fun1
+纸	zi3
+纹	vun2
+纹	mun1
+纺	fong3
+驴	lu2
+驴	li2
+纽	nziu3
+纽	niu3
+奉	bung3
+奉	fung4
+玩	ngan2
+玩	van2
+环	van2
+武	vu1
+武	mu3
+青	ciang1
+责	zat1
+责	zak1
+现	sen4
+表	biau3
+规	gui1
+玫	moi2
+抹	mat1
+卦	ga4
+卦	gak2
+坷	ko1
+坯	pui1
+拓	tot2
+坯	poi1
+拓	tok2
+拓	sak2
+拢	lung3
+拔	bat2
+拔	pat2
+坪	piang2
+拣	gan3
+坦	tan3
+担	dan1
+坤	kun1
+押	qap1
+抽	ciu1
+拐	goi3
+拖	to1
+者	zia3
+拍	pak1
+顶	dang3
+顶	din3
+拆	cak1
+拎	lin1
+拎	len1
+拥	jung1
+拥(qung1,掩埋，遮掩)	qung1
+抵	dai3
+抵	di3
+拘	geu4
+势	si4
+势	se4
+抱	bau4
+抱	pau3
+拄	zu4
+拄	cu4
+垃	lap1
+拉	lai1
+拉	la1
+拦	lan2
+幸	hen4
+拌	ban4
+拧	nen3
+拂	fut1
+拂	fit2
+拂	but1
+拂	put2
+拂	pat2
+拂	pet2
+拙	cut2
+拙	zot2
+拙	cot2
+招	zau1
+坡	po1
+披	pi1
+拨	bat1
+拨	pat1
+拨	but1
+拨	put1
+择	cak2
+抬	toi2
+择	tok2
+抬	toi2
+拇	mu1
+拗	qau3
+其	ki2
+取	ci3
+茉	mat2
+茉	mo4
+苦	ku3
+苦	fu3
+昔	thit1
+昔	thiuk1
+苛	ko1
+若	nziok2
+茂	mau4
+茂	meu4
+茂	miu4
+苹	pin2
+苗	miau2
+英	jin1
+英	qin1
+苟	geu3
+苑	von3
+苑	van3
+苞	bau1
+范	fan4
+直	cit2
+茁	zot1
+茄	kio2
+茄	ke2
+茎	gin1
+苔	toi2
+茅	mau2
+枉	vong3
+林	lim2
+枝	gi1
+枝	zi1
+杯	bui1
+枢	ku1
+枢	ki1
+柜	kui4
+枚	moi2
+析	thit1
+析	thak1
+煠	thap2
+霅(thap6,散)	thap2
+霅碎(破碎)	thap2 thui4
+板	ban3
+松	cung2
+枪	ciong1
+枫	fung1
+构	geu4
+杭	hong2
+杰	ket2
+述	sut2
+枕	zim3
+丧	thong1
+丧	thong4
+或	vet2
+或	fet2
+画	vak2
+画	fa4
+卧	mo4
+事	thu4
+刺	ci4
+枣	zau3
+雨	ji3
+雨	qu3
+卖	mai4
+郁	juk1
+矾	fan2
+矿	kong4
+码	ma1
+厕	cet1
+厕	cu4
+奈	nai4
+奔	bun1
+奇	ki2
+奋	fun4
+奋	bun4
+态	tai4
+欧	qeu1
+殴	qeu1
+垄	lung3
+補	bu3
+補	pu3
+妻	ci1
+轰	hung1
+顷	ken1
+转	zon3
+转	don3
+斩	zam3
+轮	lin2
+轮	lun2
+软	nzion1
+到	dau4
+非	fui1
+非	bui1
+叔	suk1
+歧	ki2
+肯	ken3
+肯	hen3
+齿	ci3
+些	thia1
+卓	zok1
+卓	cok1
+卓	diok1
+虎	fu3
+虏	lu3
+肾	sin4
+贤	hien2
+贤	sen2
+尚	song4
+旺	vong4
+具	ki3
+具	gi4
+具	gu4
+味	mui4
+果	go3
+味	mi4
+昆	kun1
+国	get1
+哎	qai3
+咕	gu3
+昌	cong1
+畅	cong4
+明	min2
+呵	ga3
+呵	go2
+呵	ho1
+呵	he1
+畅	diong4
+明	meng2
+易	ji4
+易	jit2
+咙	lung2
+昂	ngong3
+迪	tit2
+典	den3
+固	gu4
+固	go4
+忠	zung1
+忠	diung1
+呻	sin1
+咒	ziu4
+咋	tha4
+咋	za4
+咐	fu4
+咐	pu4
+呼	fu1
+鸣	min2
+咏	qiun3
+咏	jun3
+呢	ni1
+呢	ne1
+咄	cut1
+咄	cot1
+咄	zot1
+咄	dot1
+咄	dut1
+咖	ga1
+岸	qon4
+岸	ngan4
+岩	ngam2
+帖	tiap1
+贴	diap1
+罗	lo2
+帜	zit1
+帕	pak1
+岭	liang1
+凯	kai3
+凯	koi3
+败	pai4
+账	diang4
+账	zong4
+贩	fan4
+贬	ben3
+购	geu4
+贮	du3
+贮	cu3
+图	tu2
+钓	diau4
+制	ze4
+知	di1
+知	zi1
+迭	det1
+迭	diat2
+氛	fun1
+垂	cui2
+牧	muk2
+物	mut2
+物	vut2
+乖	goi1
+刮	gat1
+秆	gon3
+和	fo2
+和	vo2
+季	gui4
+委	vui1
+秉	biang3
+秉	bin3
+佳	ga1
+佳	gai1
+侍	thu4
+岳	ngok2	
+供	gung1
+供	giung1
+供	giung4
+供	gung4
+使	thu3
+例	le4
+侠	gap1
+侠	hap1
+侥	giau3
+侥	nziau2
+版	ban3
+侄	cit2
+侦	zin1
+侣	li3
+侣	lio3
+侣	lu3
+侧	zet1
+侧	cet1
+凭	pin2
+凭	pang2
+侨	kiau2
+佩	pui4
+货	fo4
+侈	ci4
+依	ji1
+依	qe1
+卑	be1
+卑	bi1
+卑	bui1
+的	dit2
+啲	dit2
+迫	pek2
+迫	pok2
+质	zit1
+欣	sun1
+征	zin1
+征	zang1
+往	vong1
+往	vong3
+往	qong3
+爬	pa2
+彼	pi1
+彼	bi3
+径	gin4
+所	tho3
+舍	sa3
+金	gim1
+刹	that1
+命	miang4
+肴	ngau2
+肴	jau2
+斧	bu3
+斧	fu3
+爸	ba2
+采	cai3
+觅	mi4
+觅	mit2
+觅	met1
+受	siu4
+乳	nziui3
+贪	tam1
+念	nziam4
+念	nem3
+贫	pin2
+忿	fun4
+肤	fu1
+肺	pui4
+肢	zi1
+肢	gi1
+肿	zung3
+胀	zong4
+朋	pen2
+股	gu3
+肮	qang1
+肮	qong1
+肪	fong2
+肪	pong2
+肥	pui2
+服	fuk2
+胁	sap
+周	ziu1
+昏	fun1
+鱼	ngh2
+鱼	ngia2
+兔	tu4
+狐	fu2
+忽	fut1
+狗	geu3
+狞	nen2
+备	pi4
+备	pui4
+饰	si4
+饱	bau3
+饲	cu2
+变	ben4
+京	gin1
+京	giang1
+享	song3
+庞	pang2
+店	diam4
+夜	ja4
+庙	miau4
+府	fu3
+府	pu3
+底	di3
+底	dai3
+疟	nziok2
+疟	nziak2
+疙	nget1
+疙	get1
+疚	giu3
+剂	zi4
+剂	zai4
+卒	zut1
+郊	gau1
+庚	gang1
+废	fui4
+净	ciang4
+盲	mang2
+放	bong4
+放	fong4
+刻	ket2
+育	juk1
+氓	mang2
+氓	min2
+闸	cap2
+闹	nau1
+闹	nau4
+郑	zin4
+郑	din4
+券	ken4
+卷	gen3
+单	dan1
+炬	ki4
+炬	gio4
+炬	gi4
+炒	cau3
+炊	cui1
+炕	kang4
+劥	kang1
+炎	jam2
+炉	lu2
+沫	mat2
+浅	cen3
+法	fat1
+泄	je4
+泄	thet4
+沽	gu1
+沽	go1
+河	ho2
+沾	nziam2
+沾	zam1
+泪	lu4
+泪	lui4
+沮	zo3
+沮	zu3
+油	jiu2
+泊	pok1
+泊	pak1
+沿	jen2
+泡	pau1
+泡	pau4
+注	zu4
+泻	thia4
+泣	lap2
+泣	kip2
+泞	nin2
+泞	nen2
+泌	bi4
+泌	mi4
+泳	jun3
+泳	jung3
+泥	nai2
+沸	bui4
+沸	fui4
+沼	zau3
+沼	zau1
+波	bo1
+泼	pat2
+泽	cak2
+治	di4
+治	zi4
+治	ci4
+怖	bu4
+怔	zin1
+怔	zang1
+怯	kiap2
+怯	kiak2
+性	thiang4
+性	thin4
+怕	pa4
+怜	len2
+怪	gai4
+怡	ji2
+学	hok2
+宝	bau3
+宗	zung1
+定	tin4
+宜	nzi2
+宠	cung3
+审	sin3
+宙	ziu4
+官	gon1
+空	kung1
+帘	liam2
+宛	von3
+宛	van3
+实	sit2
+试	ci4
+试	si4
+郎	long2
+诗	si1
+肩	gen1
+房	fong2
+诚	sang2
+诚	sin2
+衬	cun4
+衫	tham1
+视	si4
+祈	ki3
+祈	si3
+话	va4
+诞	dan4
+诡	gui3
+询	thun2
+询	cun2
+该	goi1
+该	gai1
+详	thiong2
+建	gen4
+建	ken4
+肃	thuk1
+肃	thu4
+隶	li4
+录	luk2
+帚	ziu4
+屉	ti4
+居	gi1
+居	gio1
+届	gai4
+刷	thot1
+屈	kut1
+屈	kuk1
+屈(vut)	vut1
+弧	gu2
+弧	fu2
+弥	ni1
+弥	mi2
+弥	nzi2
+弦	sen2
+承	sang2
+承	sin2
+孟	mang4
+孟	men4
+陋	leu4
+陌	bak1
+陌	mak1
+陌	mo4
+孤	gu1
+陕	tham3
+降	gong4
+函	ham2
+限	han4
+妹	moi4
+姑	gu1
+姐	zia3
+姐	ze3
+姓	thiang4
+妮	ne4
+姆	mu3
+姆	me1
+妮	ni1
+始	ci3
+始	si3
+迢	zau2
+迢	tiau2
+驾	ga4
+叁	tham1
+参	cam1
+艰	gan1
+艰	gen1
+线	then4
+练	len4
+组	zu3
+绅	sin1
+细	the4
+驶	thu3
+织	zit1
+驹	gi1
+驹	ki1
+驹	ku1
+终	zung1
+驻	zu4
+驻	cu4
+绊	ban4
+绊	pan4
+驼	to2	
+绍	sau2
+绎	jit2
+经	gin1
+贯	gon4
+契	ke4
+贰	nzi4
+奏	ceu4
+奏	zeu4
+春	cun1
+帮	bong1
+玷	zam1
+玷	nziam3
+珍	zin1
+玲	lin2
+玲	lang2
+珊	than1
+玻	bo1
+毒	tuk2
+型	sin2
+挂	gak2
+挂	ga4
+拭	sit1
+封	fung1
+持	ci2
+拷	kau4
+拱	gung4
+项	hong4
+项	song4
+垮	ka3
+挎	ka4
+城	sang2
+城	sin2
+挟	gap1
+挟	giap2
+挠	nau2
+挠	nziau2
+政	zin4
+赴	pu4
+赴	fu4
+赵	zau4
+挡	dong3
+拽	jet1
+拽	je4
+哉	zai1
+挺	tin3
+括	gat1
+括	ko4
+垢	geu4
+拴	thon1
+拾	hap2
+拾	gap1
+拾	sip2
+拾	zap2
+挑	tiau1
+挑	tiau3
+垛	do3
+指	zi3
+垫	tiam4
+挣	zang1
+挤	ze3
+挤	zi4
+挤	ziam1
+拼	piang1
+拼	pin1
+挖	vat1
+挖	vet1
+按	qon4
+挥	kui1
+挪	no2
+拯	zin3
+拯	sin2
+某	meu3
+甚	sim4
+荆	gin1
+併	bin4
+茸	jung2
+革	gak1
+茬	zi2
+荐	zen4
+荐	cen4
+巷	hong2
+带	dai4
+草	cau3
+茧	giam3
+茵	jin1
+茶	ca2
+荒	fong1
+茫	mong2
+荡	tong3
+荣	jung2
+荤	fun1
+荧	jin2
+荧	jang2
+故	gu4
+胡	fu2
+荫	jim1
+荔	lai4
+南	nam2
+药	jok2
+标	biau1
+栈	can4
+柑	gam1
+枯	ku1
+柄	biang3
+栋	dung4
+相	thiong4
+查	ca2
+柏	bak1
+栅	than1
+柳	liu1
+柱	cu1
+柿	thu4
+栏	lan2
+柠	nen2
+树	su4
+勃	bot1
+勃	put1
+要	qoi4
+要	jau4
+柬	gan4
+咸	ham2
+威	vui1
+歪	vai1
+歪	jai2
+研	ngen1
+砖	zon1
+厘	li2
+厚	pun1
+厚	heu4
+砌	cet1
+砂	tha1
+泵	dem1
+泵	bang4
+砚	gan4
+砚	gen4
+砍	kam3
+面	men4
+耐	nai4
+耍	tha3
+牵	ken1
+鸥	qeu1
+残	can2
+轴	cuk2
+殃	jong1
+轻	kiang1
+鸦	qa1
+皆	gai1
+韭	giu3
+背	boi4
+背	bui4
+背	poi4
+背	bi4
+战	zen4
+战	zan4
+摼	kiang3
+摼	kan4
+点	diam4
+点	niam4
+虐	nziok2
+虐	nziak2
+临	lin2
+览	lam3
+竖	su4
+省	then3
+削	thiok1
+尝	song2
+尝	cong2
+昧	mui4
+盹	dun4
+是	si4
+是	ze4
+盼	pan4
+眨	jap2
+哇	va3
+哄	hung4
+哑	qa3
+显	sen3
+冒	mau4
+映	jang4
+映	jin4
+星	thin1
+昨	cam1
+昨	cak1
+昨	cok1
+咧	le4
+昭	zau1
+畏	vui4
+畏	voi4
+趴	pa1
+胃	vui4
+贵	gui4
+界	gai4
+虹	fung2
+虾	ha2
+蚁	nzi1
+蚁	ni1
+思	thu1
+蚂	ma1
+虽	thui1
+品	pin3
+咽	jen1
+咽	jen4
+咽	jin1
+骂	ma4
+勋	sun1
+哗	fa2
+咱	zan3
+响	song3
+哈	ha1
+哈	hap1
+哈	hat1
+哆	do1
+哆	da1
+咬	ngau1
+咳	kem3
+咳	ket1
+咪	mi1
+哪	na3
+哪	nai4
+哟	jo1
+炭	tan4
+峡	hap1
+峡	gap1
+罚	fat2
+贱	cen4
+贴	tiap1
+贻	ji2
+骨	gut1
+幽	jiu1
+钙	koi4
+钝	dun1
+钞	cau1
+钟	zung1
+钢	gong1
+钠	na4
+钠	nap1
+钥	jok2
+钦	kim1
+钧	jun2
+钧	giun1
+钩	geu1
+钩	ngeu1
+钮	niu3
+钮	neu3
+卸	thia4
+缸	gong1
+拜	bai1
+看	kon4
+矩	ki2
+毡	zam1
+氢	kin1
+怎	zin3
+牲	thang1
+选	then3
+适	sit1
+适	gat1
+秒	miau2	
+香	song1
+种	zung4
+种	zung3
+秋	ciu1
+科	ko1
+重	cung2
+重	cung1
+复	fuk2
+复	puk2
+竿	gon1
+段	ton4
+便	pen4
+俩	liong2
+货	fo4
+贷	toi4
+贷	dai4
+顺	sun4
+修	thiu1
+俏	ciau4
+俏	thiau1
+保	bau3
+促	cuk1
+侮	vu1
+俄	ngo2
+俐	li4
+侮	vu1
+歕	pun2
+侮	mu1
+俭	giam3
+俭	kiam4
+俗	cuk2
+俘	feu2
+俘	fu1
+信	thin4
+皇	vong2
+皇	fong2
+泉	can2
+鬼	gui3
+侵	cim1
+禹	ji1
+侯	heu2
+刁	diau1
+追	zui1	
+俊	zun4
+盾	dun4
+待	toi4
+待	tai4
+署	cu3
+署	su3
+徊	fai2
+徊	fui2
+衍	jen2
+律	lut2
+很	han4
+须	thi1
+叙	thi4
+剑	giam4
+逃	tau2
+食	sit2
+盆	pun2
+胚	poi1
+胚	pui1
+胧	lung2
+胆	dan3
+胜	sin4
+胜	thang4
+焯	cok1
+焯	dok1
+胞	bau1
+胖	pan4
+脉	mak1
+胎	toi1
+勉	men1
+狭	hap1
+狮	thu1
+独	tuk2
+狰	zang1
+狡	gau3
+狱	nziuk2
+狠	han4
+贸	mau4
+怨	jen4
+急	gip1
+饵	nzi3
+饶	nziau2
+蚀	sit2
+蚀	set2
+饺	gau3
+饼	biang3
+峦	lon2
+弯	van1
+将	ziong4
+将	ziong1
+奖	ziong3
+哀	qoi1
+亭	tin2
+亮	liong4
+度	tu4
+迹	ziak1
+迹	zit1
+庭	tin2
+疮	cong1
+疯	fung1
+疫	jit2
+疤	ba1
+咨	zu1
+姿	zu1
+亲	cin1
+音	jim1
+帝	di4
+施	si1
+闺	gui1
+闻	vun2
+闻	mun2
+闽	min3
+阀	fat1
+阁	gok1
+阁	gak1	
+差	ca1
+差	cai1
+养	jong1
+美	mui1
+姜	giong1
+叛	pan4
+送	thung4
+类	lui4
+迷	mui2
+迷	mi2
+籽	ze3
+娄	leu2
+娄	liu2
+前	cen2
+首	siu3
+逆	nziak2
+兹	zu1
+总	zung3
+炼	len4
+炸	za4
+烁	sok2
+烁	lok2
+炮	pau4
+炫	sen2
+烂	lan4
+剃	tai4
+剃	ti4
+洼	va1
+洁	git1
+洁	get1
+洪	fung2
+洒	tha3
+洒	sa3
+柒	cit1
+浇	ziau1	
+浊	zuk1
+洞	tung4
+测	cet1
+测	cak1
+洗	the3
+活	fat2
+派	pai3
+派	pai4
+洽	hap2
+染	nzian3
+染	nzian4
+洽	gap2
+洛	lok2
+浏	liu2
+济	zi4
+济	ce2
+济	ze4
+洋	jong2
+洲	ziu1
+浑	fun2
+浑	vun2
+浓	nung2
+津	zin1
+恃	thu4
+恃	cu2
+恃	thi4
+恒	vang2
+恒	hang2
+恢	foi1
+恢	fui1
+恍	gong1
+恍	fong1
+恬	tiam2
+恤	set1
+恰	hap2
+恰	gap2
+恼	nau1
+恨	han4
+举	gi3
+举	gio3
+觉	gok1
+觉	gau4
+宣	sen1
+宦	fon4
+宦	von4
+室	sit1
+宫	giung1
+宫	gung1
+宪	sen4
+突	tuk1
+突	tut1
+穿	con1
+窃	cet1
+客	kak1
+客	hak1
+诫	gai4
+诫	hai4
+冠	gon4
+诬	vu1
+诬	mu1
+语	nzio1
+语	nzi1
+语	ni1
+扁	pen1
+扁	ben1
+袄	qau3
+祖	zu3
+神	sin2
+祝	zuk1
+祠	cu2
+误	ngu4
+误	mu4
+误	ngo4
+诱	jiu4
+诲	kui3
+诲	fui3
+说	sot1
+诵	thung4
+垦	ken3
+退	tui4
+既	gai4
+既	gi4
+屋	quk1
+昼	ziu4
+屏	pin2
+屎	si3
+费	fui4
+陡	deu3
+逊	sun4
+眉	mi2
+眉	mui2
+眉	moi2
+孩	hoi2
+陨	jun3
+除	cu2
+险	sem3
+险	sam3
+院	jen4
+娃	vai1
+娃	va2
+姥	lau3
+姥	mu3
+姨	ji2
+姻	jin1
+娇	giau1
+姚	tiau2
+姚	jau2
+娜	na4
+怒	no2
+怒	nu4
+架	ga4
+贺	ho4
+盈	jin2
+勇	jung3
+怠	dai4
+怠	toi4
+癸	kui2
+蚤	zau3
+柔	jiu2
+垒	lui3
+绑	ben3
+绑	bong3
+绒	jung2
+结	get1
+绕	nziau2
+绕	nziau4
+骄	giau1
+绘	fui4
+给	gip1
+绚	sun2
+绚	sen4
+络	lok2
+骆	lok2
+绝	cet2
+绞	gau3
+骇	hai4
+骇	hoi4
+统	tung3
+耕	gang1
+耘	jun2
+耗	hau4
+耙	pa2
+艳	jen4
+秦	cin2
+秦	sin2
+泰	tai4
+珠	zu1
+班	ban1
+素	thu4
+匿	nit2
+匿	nziak2
+蚕	cam2
+顽	ngan2
+顽	van2
+盏	zan3
+匪	fui1
+捞	lau1
+栽	zai1
+捕	bu3
+捕	pu3
+埂	gang1
+捂	ngh3
+捂	qen1
+振	zin3	
+载	zai3
+赶	gon3
+起	si3
+起	ki3
+盐	jam2
+捎	thiau1
+捎	thau1
+捍	hon4
+捏	net1
+埋	mai2
+捉	zuk1
+捆	kun3
+捐	gen1
+损	thun3
+袁	jen2
+捌	bat1
+都	du1
+都	dung1
+哲	zet1
+逝	si4
+捡	giam3
+挫	co1
+挫	co4
+换	von4
+挽	men1
+挚	zip1
+热	nziet2
+恐	kung3
+恐	kiung3
+捣	dau3
+壶	fu2
+挨	qoi1
+挨	qe1
+挨	qai1
+捅	tung3
+埃	qoi1
+埃	qai1
+挨	ngai2
+捱	ngai4
+耻	ci3
+耿	gang3
+耽	dam1
+聂	niap1
+恭	giung1
+恭	gung1
+莽	mong3
+莱	loi2
+莱	lai2
+莲	len2
+莽	mang3
+莫	muk2
+莫	mak2
+莫	mok2
+莉	li4
+荷	ho2
+获	vok1
+晋	zin4
+啱	ngam1
+晋	gin4
+恶	qok1
+莹	jin2
+莺	jin1
+真	zin1
+框	kong1
+梆	bong1
+桂	gui4
+桔	git1
+栖	ci1
+档	dong3
+桐	tung2
+株	zu1
+桥	kiau2
+桦	fa4
+栓	thon1
+桃	tau2
+格	gak1
+桩	zong1
+校	gau3
+校	gau4
+核	hak2
+核	hat2
+核	fut2
+核	vut2
+样	nziong4
+样	jong4
+根	gin1
+索	thok1
+哥	go1
+速	cuk1
+逗(teu3,停歇)	teu3
+䚵(teu4,毒死)	teu4
+逗	deu4
+栗	lit2
+贾	ga3
+酌	ziok1
+配	pui4
+翅	ci4
+辱	nziuk1
+唇	sun2
+夏	ha4
+砸	zat1
+砰	bang1
+砰	biang2
+砰	pin1
+砰	piang2
+砾	lit2
+础	cu3
+础	co3
+破	po4
+原	nzien2
+原	jen2
+套	tau4	
+逐	cuk2
+逐	tuk2
+烈	let2
+殊	su1
+殉	sun4
+顾	gu4
+轿	kiau4
+轿	giau4
+较	gau3
+顿	dun4
+毙	bi4
+致	di4
+致	zi4
+柴	cai2
+桌	dok1
+桌	zok1
+虑	li4
+虑	lu4
+虑	lio4
+监	gam1
+紧	gin3
+党	dong3
+逞	cin3
+逞	sin3
+晒	thai4
+眠	min2
+眠	men2
+晓	nziau3
+晓	ngau3
+晓	sau3
+哮	hau4
+唠	lau2
+鸭	qap1
+晃	gong1
+晃	long1
+哺	bu3
+哺	pu3
+晌	song3
+剔	tit1
+剔	tiak1
+剔	ti4
+晕	fun2
+晕	jun1
+蚌	bung4
+蚌	bang4
+畔	ban4
+畔	pan4
+蚣	gung1
+蚊	mun1
+蚪	deu3
+蚓	jin3
+哨	thau4
+哩	li1
+圃	pu3
+圃	bu3
+哭	kuk1
+哦	qo3
+恩	qen1
+鸯	jong1
+鸯	qiong1
+嗯	qen1
+摁	qen1
+唤	von4
+唁	ngen4
+唁	nzien4
+唁	jen4
+哼	hng4
+唧	zit1
+啊	qa1
+唉	hai3
+唉	qai3
+唆	tho1
+罢	ba3
+峭	ciau4
+峨	ngo2
+峰	fung1
+圆	jen2
+峻	zun4
+贼	cet2
+贿	fui4
+贿	kui4
+赂	lok1
+赃	zong1
+钱	cen2
+钳	kiam2
+钻	zon4
+钾	gap1
+铁	tet1
+铃	lang2
+铃	leng2
+铅	jen2
+缺	ket1
+氧	jong1
+氨	qon1
+特	tit2
+特	tet2
+牺	thi1
+造	cau4
+造	zau4
+乘	sang2
+乘	sin2
+敌	tit2
+秤	piang2
+秤	pin2
+租	zu1
+积	zit1
+秧	jong1
+秩	cit1
+称	cin1
+称	cang1
+秘	bi4
+秘	mit2
+透	teu4
+笔	bit1
+笑	thiau4
+笋	thun3
+债	zai4
+借	zia4
+值	cit2
+倚	ji3
+俺	ngam3
+倾	kin1
+倾	ken1
+倒	dau3
+倒	dau4
+倘	tong3
+俱	ki3
+俱	gi4
+倶	gu4	
+倡	cong1
+倡	cong4
+候	heu4
+赁	lin4
+俯	pu3
+俯	fu3
+倍	pui4
+倍	boi4
+倦	gen4
+健	ken4
+臭	ciu4
+射	sa4
+躬	giung1
+躬	gung1
+息	thit1
+倔	kut1
+倔	kuk1
+徒	tu2
+徐	ci2
+徐	cu2
+殷	jin1
+舰	lam4
+舰	gen4
+舱	cong1
+般	ban1
+航	hong2
+途	tu2
+拿	na1
+耸	thung3
+爹	dia3
+舀	jau3
+爱	qoi4
+豺	coi2
+豹	bau4
+颁	ban1
+颁	bun1
+颂	thung4
+翁	jung1
+翁	vung1
+翁	qung1
+翁	qang1
+胰	ji2
+脆	cui4
+脂	zi1
+胸	sung1
+胳	lok2
+脏	zong1
+脐	ci2
+脐	ce2
+胶	gau1
+脑	nau3
+脓	nung2
+逛	gong4
+狸	li2
+狼	long2
+卿	kin1
+逢	fung2
+逢	pung3
+鸵	to2
+留	liu2
+鸳	jen1
+皱	nziu4
+皱	ziu4
+皱	zeu4
+饿	ngo4
+馁	lui3
+馁	nui3
+凌	lin2
+凄	ci1
+恋	len4
+桨	ziong3
+浆	ziong1
+衰	thoi1
+衷	zung1
+高	gau1
+郭	gok1
+席	cit2
+席	ciak2
+准	zun3
+座	co1
+症	zin4
+病	piang4
+疾	cit2
+斋	zai1
+疹	zin1
+疼	tung4
+疲	pi2
+脊	zit1
+效	ngau4
+离	li2
+紊	vun3
+紊	min3
+紊	mun3
+紊	vin3
+唐	tong2
+瓷	cu2
+资	zu1
+凉	liong2
+凉(long4)	long4
+択(tak1)	tak1
+站	cam4
+剖	pau3
+剖	peu1
+竞	gin4
+部	bu4
+部	pu4
+旁	pong2
+旅	li3
+旅	lio3
+畜	cuk1
+阅	jet2
+羞	thiu1
+羞	ciu1
+羔	gau1
+瓶	piang2
+拳	ken2
+粉	fun3
+料	liau4
+益	jit1
+兼	kiam1
+兼	giam1
+烤	kau3
+烘	hung1
+烦	fan2
+烧	sau1
+烛	zuk1
+烟	jen1
+烙	lok1
+烙	lau4
+递	ti4
+涛	tau1
+浙	zet1
+涝	lau2
+浦	pu2
+浦	bu1
+酒	ziu3
+涉	sap2
+消	thiau1
+涡	vo1
+浩	hau4
+海	hoi3
+海	hai3
+涂	tu2
+浴	juk1
+浮	feu2
+涣	fon4
+涣	von4
+涤	di2
+涤	dit1
+涤	tit1
+流	liu2
+流	leu2
+润	jun4
+涧	gan4
+涕	ti4
+浪	long4
+浸	zim4
+涨	zong3
+烫	tong1
+涩	thip1
+涩	giap1
+涩	thep1
+涌	jung3
+悖	but1
+悖	bot1
+悖	put1
+悟	ngh2
+悟	ngu4
+悄	thiau1
+悄	ciau1
+悍	hon4
+悔	fui3
+悔	kui3
+悯	min2
+悯	min3
+悦	jet2
+害	hoi4
+宽	kon1
+家	ga1
+家	ka1
+宵	thiau1	
+宴	jen4
+宾	bin1
+窍	kiau3
+窄	kiap2
+窄	zat2
+窄	zak2
+容	jung2
+宰	zai3
+案	qon4
+请	ciang3
+请	cin3
+朗	long3
+诸	zia1
+诸	zu1
+诺	nziok2
+诺	nok1
+读	tuk2
+扇	sen4
+诽	bui1
+诽	fui1
+袜	mat1
+袖	ciu4
+袍	pau2
+被	pi1
+祥	thiong2
+课	ko4
+冥	min2
+冥	miang2
+谁	sui2
+调	tiau2
+调	diau4
+冤	jen1
+谅	liong4
+谆	dun1
+谈	tam2
+谊	nzi2
+剥	bok1
+剥	bak1
+恳	ken3
+恳	kin3
+展	zen3
+展	zan3
+剧	git1
+剧	gi4
+屑	thet1
+弱	nziok2
+陵	lin2
+祟	thui4
+陶	tau2
+陷	ham4
+陪	pui2
+娱	mu4
+娱	ngu2
+娱	ngh2
+娟	gen1
+恕	su4
+娥	ngo2
+娘	nziong2	
+通	tung1
+能	nen2
+难	nan2
+预	ji4
+桑	thong1
+绢	gen1
+绣	thiu4
+验	nziam4
+继	gi4
+骏	zun4
+球	kiu2
+琐	tho3
+理	li1
+琉	liu2
+琅	long2
+捧	bung3
+堵	du3
+措	cu4
+措	co4
+描	miau2
+域	vet1
+域	quet1
+捺	na4
+捺	nai4
+捺	nap1
+掩	jam3
+捷	ciak2
+排	pai2
+焉	jen1
+掉	diau4
+捶	cui2
+赦	sa4
+堆	doi1
+堆	dui1
+推	tui1
+埠	bu3
+掀	sin1
+掀	sun1
+掀	jen1
+授	siu4
+捻	nem3
+教	gau1
+教	gau4
+掏	tau1
+掐	gap1
+掐	hap1
+掠	liok1
+掂	tiam4
+掂	diam1
+培	pui2
+接	ziap1
+掷	cit1
+控	kung3
+探	tam4
+据	ki3
+据	gi3
+据	gio3
+掘	kut1
+掘	kuk1
+掺	cam1
+职	cit1
+职	zit1
+基	gi1
+著	zu4
+著	zok1
+著	cok2
+聆	lang2
+聆	lin2
+勘	kam1
+聊	liau2
+娶	ci3
+著	zu4
+著	zok1
+菱	lin2
+勒	let2
+黄	vong2
+菲	fui1
+菲	bui1
+萌	min2
+萌	men2
+萝	lo2
+菌	kiun1
+萎	vui3
+菜	coi4
+萄	tau2
+菊	kiuk1
+菩	pu2
+菩	po2
+萍	pin2
+菠	bo1
+萤	jin2
+萤	jang2
+营	jang2
+营	jin2
+乾	ken2
+乾	gon1
+萧	thiau1
+萨	that1
+菇	ku1
+械	hai3
+彬	bin1
+梦	mung4
+婪	lam2
+梗	gang1
+梧	ngu2
+梧	ngh2
+梧	ngo2
+梢	thiau1
+梅	moi2
+检	giam3
+梳	tho1
+梯	toi1
+桶	tung3
+梭	tho1
+救	giu4
+曹	cau2
+副	fu4
+票	piau4
+酝	jun4
+酗	sung1
+酗	si4
+厢	thiong1
+戚	cit1
+硅	gai1
+硅	goi1
+硕	sak2
+硕	thok2
+奢	sa1
+盔	kui1
+爽	thong3
+聋	lung2
+袭	thip1
+袭	thip2
+盛	sin4
+匾	ben3
+雪	thet1
+辅	pu3
+辅	fu3
+辆	liong4
+颅	lu2
+虚	si1
+彪	biau1
+雀	ziok1
+堂	tang2
+堂	tong2
+常	song2
+眶	kong1
+匙	si2
+晨	sin2
+睁	zang1
+眯	mi1
+眼	ngan3
+悬	sen2
+野	ja1
+啪	pa1
+啪	pak1
+啦	la1
+曼	man4
+晦	fui4
+晚	man1
+晚	van1
+啄	diok1
+啄	ziok1
+啡	fui1
+啡	bui1
+距	ki3
+距	gi3
+距	gio3
+趾	zi3
+啃	ken3
+跃	jok1
+略	liok2
+蚯	ciu1
+蚯	kiu1
+蛀	zu4
+蛇	sa2
+唬	fu3
+累	lui1
+累	lui4
+鄂	ngok2
+鄂	ngak2
+唱	cong4
+患	von4
+患	fon4
+啰	lo2
+唾	tui4
+唾	to4
+唯	vui2
+唯	vi2
+啤	be1
+啤	pi2
+啥	sa3
+啸	thiau4
+崖	ngai2
+崖	nga2
+崎	ki2
+崭	cam3
+逻	lo2
+崭	zam3
+恇	kong2
+崔	cui1
+帷	vi2
+帷	vui2
+崩	ben1
+崇	cung2
+跺	dem3
+跺	do4
+蹬	dem3
+蹬	den1
+蹬	dang1
+圈	ken1
+婴	jin1
+铐	kau4
+铛	dong1
+铝	lu1
+铝	li1
+铜	tung2
+铭	min2
+铭	miang2
+铲	can3
+银	nziun2
+矫	giau4
+甜	tiam2
+秸	git1
+梨	li2
+犁	lai2
+秽	thoi4
+秽	ve1
+移	ji2
+笨	bun4
+笼	lung2
+笛	tak2
+笙	thang1
+符	pu2
+符	fu2
+第	ti4
+敏	men1
+敏	man2
+敏	min3
+做	zo4
+袋	toi4
+悠	jiu1
+偿	song2
+偶	ngau3
+偶	ngeu3
+偶	qeu3
+偎	vui4
+偎	voi4
+偷	teu1
+您	nin2
+售	ciu2
+售	ciu4
+售	siu4
+停	tin2
+偏	pen1
+躯	ku1
+躯	ki1
+兜	deu1
+假	ga3
+衅	thin4
+徘	pai2
+徘	fui1
+徙	si2
+徙	thai1
+徙	sai1
+得	det1
+衔	ham2
+盘	pan2
+舶	pak1
+船	son2
+舵	to2
+斜	cia2
+盒	hap2
+鸽	gap1
+敛	liam3
+悉	thit1
+欲	juk1
+彩	cai3
+彩	coi3
+领	liang1
+脚	giok1
+脖	bok1
+脯	pu1
+豚	tun2
+脸	liam3
+脱	tot1
+象	thiong4
+够	geu4
+逸	jat1
+猜	cai1
+猪	zu1
+猎	liap2
+猫	miau4
+凰	vong2
+猖	cong1
+猛	mang1
+祭	zi4
+馅	ham3
+馆	gon3
+凑	ceu4
+减	gam3
+毫	hau2
+烹	pang1
+庶	su4
+麻	ma2
+庵	qam3
+痊	con2
+痒	jong1
+痕	han2
+痕	hun2
+廊	long2
+康	kong1
+庸	jung1
+鹿	luk2
+盗	dau4
+章	zong1
+竟	gin4
+商	song1
+族	cuk2
+旋	sen2
+望	mong4
+望	vong4
+率	thut2
+率	lut2
+率	thai4
+阎	jam4
+阐	cam2
+阐	cen2
+着	cok2
+羚	lin2
+羚	lang2
+盖	goi4
+盖	gai4
+眷	gen4
+粘	nziam2
+粘	zam1
+粘	nep2
+粗	cu1
+粒	lap2
+粒	nap2
+断	ton1
+断	don4
+剪	zen3
+兽	ciu4
+兽	siu4
+焊	hon4
+焕	von4
+焕	fon4
+清	cin1
+添	tiam1
+鸿	fung2
+淋	lim2
+涯	ngai2
+涯	nga2
+淹	jam3
+渠	ki2
+渐	ciam4
+淑	suk1
+淌	tong3
+混	fun3
+混	gun3
+混	kun3
+淮	fai2
+淆	ngau2
+渊	jen1
+淫	jin2
+渔	ngh2
+淘	tau2
+淳	dun1
+淳	zun1
+液	jet2
+液	je2
+淤	ji1
+淡	tam1
+淀	dian4
+淀	ten4
+深	cim1
+涮	thot1
+涵	ham2
+婆	po2
+梁	liong2
+渗	zam4
+渗	cam1
+情	cin2
+惜	thit1
+惜	thiak1
+惭	ciam4
+悼	dau4
+惧	ki3
+惧	gi3
+惧	gu3
+惕	tit1
+惕	ti4
+惟	vi2
+惟	vui2
+惟	qui2
+惊	giang1
+惦	diam4
+惦	tiam4
+惨	cam3
+惋	von3
+惋	van3
+悴	cui4
+悴	zut1
+惯	gon4
+惯	gan4
+寇	keu4
+寅	jin2
+寄	gi4
+寂	zit1
+寂	suk1
+宿	thuk1
+窒	zit1
+窑	jau2
+密	mit2
+密	met2
+谋	meu2
+谍	tiap2
+谎	fong3
+谐	gai2
+谐	hai2
+袱	puk2
+袱	fuk2
+祷	dau3
+祸	fo4
+谓	vui4
+谜	mui2
+谚	ngan4
+谜	mi2
+逮	dai3
+敢	gam3
+尉	vui4
+屠	tu2
+弹	tan2
+隋	cui2
+隋	sui2
+随	cui2
+堕	to4
+堕	do4
+随	sui2
+蛋	cun1
+蛋	dan4
+蛋	tan4
+隅	ngeu2
+隅	ngu2
+隅	nzi2
+隆	lung2
+隐	jun3
+隐	jin3
+婚	fun1
+婶	sin3
+婉	van3
+婉	von3
+颇	po1
+颈	giang3
+绩	zit1
+绪	thi4
+续	cuk2
+骑	ki2
+绰	zok1
+绰	cok1
+绳	sun2
+维	vui2
+绵	men2
+绷	ben1
+绸	ciu2
+综	zung1
+绽	ten4
+绿	luk2
+缀	zot1
+缀	zui4
+巢	cau2
+琴	kim2
+琳	lim2
+琢	ziok1
+琢	diok1
+琼	liong2
+斑	ban1
+替	te4
+揍	zeu4
+款	kan3
+款	kon3
+堪	kam1
+塔	tap1
+搭	dap1
+堰	jen4
+揩	kai3
+揩	gai1
+越	jet2
+趁	cim4
+趋	ci1
+趋	cu1
+超	cau1
+揽	lam
+提	ti2
+堤	ti2
+堤	bi1
+堤	di1
+博	bok1
+揭	get1
+揭	gat1
+喜	si3
+彭	pang2
+揣	cui4
+插	cap1
+揪	ziu1
+搜	theu1
+搜	thau1
+煮	zu3
+援	jen2
+搀	cem1
+搀	cam1
+裁	cai2
+裁	coi2
+搁	gok1
+搓	co1
+搓	cai1
+搂	leu2
+搅	gau4
+壹	jit1
+握	qak2
+握	qok1
+握	vok1
+搔	thau1
+揉	jiu2
+斯	thu1
+期	ki1
+欺	ki1
+联	len2
+葫	fu2
+散	than3
+惹	nzia1
+葬	zong4
+募	mu4
+葛	got1
+董	dung3
+葡	pu2
+敬	gin4
+葱	cung1
+蒋	ziong1
+蒂	di4
+蒂	ni4
+落	lok2
+韩	hon2
+朝	zau1
+朝	cau2
+朝	diau1
+辜	gu1
+葵	kui2
+棒	bang4
+棱	lin2
+棋	ki2
+椰	ja2
+植	cit2
+森	them1
+焚	fun2
+椅	ji3
+椒	ziau1
+棵	ko1
+棵	po1
+棍	gun4
+椎	zui1
+棉	men2
+棚	pen2
+棚	pang2
+棕	zung1
+棺	gon1
+榔	long2
+惠	jui3
+椭	to3
+惠	fui4
+惑	vok1
+逼	bit1
+粟	lit2
+棘	git1
+酣	gam1
+酣	ham1
+酥	thu1
+厨	cu2
+厦	ha4
+硬	ngang4
+硝	thiau1
+确	kok1
+硫	liu2
+雁	ngan4
+雁	ngen4
+殖	cit2
+裂	let2
+雄	sung2
+颊	gap1
+颊	hap1
+雳	lit2
+暂	ciam4
+雅	nga1
+翘	kiau4
+辈	bui4
+辈	pui4
+悲	bui1
+悲	bi1
+紫	zi3
+紫	zu3
+紫	cu3
+凿	cok2
+辉	kui1
+辉	fui1
+敞	cong3
+棠	tong2
+赏	song3
+掌	zong3
+晴	ciang2
+睐	loi2
+睐	lai4
+暑	cu3
+暑	su3
+最	zui4
+晰	thit1
+量	liong4
+鼎	dang3
+鼎	din3
+鼎	den3
+喷	pun1
+喷	pun4
+喳	za1
+晶	zin1
+喇	la2
+遇	ngu4
+遇	nzi4
+喊	hem1
+喊	ham4
+遏	qat1
+遏	qot1
+晾	long4
+景	gin3
+畴	ciu2
+践	zen4
+践	cen3
+践	cen4
+跋	bat
+跋	pat
+跌	det1
+跑	pau1
+跛	bai1
+跛	bo3
+遗	ji2
+遗	qui2
+蛙	va1
+蛛	zu1
+蜓	tin2
+蜒	jen2
+蛤	gep1
+蛤	gap1
+喝	hot1
+鹃	gen1
+喂	voi2
+喂	vui4
+喘	con3
+喉	heu2
+喻	lu4
+喻	ji4
+啼	ti2
+啼	tai2
+喧	sen1
+嵌	kiam4
+幅	fuk1
+帽	mau4
+赋	fu4
+赌	du3
+赎	suk2
+赐	thi4
+赔	poi2
+黑	het1
+铸	zu4
+铺	pu1
+链	len4
+销	thiau1
+锁	tho3
+锄	cu2
+锄	co2
+锅	go1
+锈	thiu4
+锋	fung1
+锌	thin1
+锐	jui3
+甥	thang1
+掰	bai1
+掰	mak1
+短	don3
+智	zi4
+氮	dam4
+毯	tam3
+氯	luk2
+鹅	ngo2
+剩	sin4
+稍	thiau1
+稍	thau1
+程	cin2
+程	cang2
+程	sin2
+程	sang2
+稀	si1
+税	soi4
+筐	kong1
+等	den3
+筑	cuk1
+策	cak1
+筛	thi1
+筛	thai1
+筒	tung2
+筏	fat2
+答	dap1
+筋	gin1
+筝	zang1
+傲	ngau4
+傲	qau4
+傅	fu4
+牌	pai2
+堡	bau3
+集	thip2
+㗱	zip2
+焦	ziau1
+傍	pong2
+傍	bong3
+储	cu3
+皓	gau3
+皓	hau3
+皖	von3
+皖	van3
+皖	fon3
+粤	jet2
+奥	qau4
+街	gai1
+惩	cin3
+御	ji
+禹	ji
+渝	ji
+瑜	ji
+翌	jit
+煜	juk
+馨	kin
+馨	thin
+鑫	thin
+歆	thin
+歆	thim
+忻	sun
+莘	thin
+焮	sun
+俞	ji
+虞	ji
+挜(ja3,抓取)	ja
+捼(ja3,抓挠)	ja
+搤(jak6,招手)	jak
+昱	juk
+循	sun
+循	thun	
+艇	tin
+舒	su
+逾	ji
+番	pan
+番	fan
+释	thit1
+禽	kim2
+腊	lap2
+脾	pi1
+脾	pi2
+腋	je
+腋	jet1
+腔	kiong1
+腕	von3
+腕	van3
+鲁	lu1
+猩	thiang1
+猩	thin1
+猬	vui4
+猾	vat2
+猴	heu2
+惫	bui4
+惫	pi4
+然	nzien2
+然	jen2
+馈	kui4
+馋	can2
+装	zong1
+蛮	man1
+就	ziu4
+敦	dun1
+斌	fu4
+痘	teu4
+痢	li4
+痪	von4
+痛	tung4
+童	tung2
+竣	zun3
+竣	zun4
+阔	fat1
+善	sen4
+翔	thiong2
+羡	sen4
+普	pu1
+粪	bun4
+尊	zun1
+奠	ten4
+道	tau4
+道	dau4
+遂	cui4
+遂	sui4
+曾	zen1
+曾	cen2
+焰	jam4
+港	gong3
+滞	ce4
+湖	fu2
+湘	thiong1
+渣	za1
+渤	but1
+渺	miau3
+湿	sip1
+温	vun1
+惗	nem3
+渴	hot1
+溃	kui3
+溅	cen4
+滑	vat2
+湃	bai4
+渝	ji2
+湾	van1
+渡	tu4
+游	jiu2
+滋	zu1
+渲	sen1
+溉	goi4
+溉	gai4
+溉	goi3
+愤	fun4
+慌	fong1
+惰	to4
+愕	ngok1
+愕	ngak1
+愣	lin2
+愣	lang2
+惶	fong2
+惶	vong2
+愧	kui3
+愉	ji4
+慨	koi3
+慨	kai3
+割	got1
+寒	hon2
+富	fu4
+寓	ngu4
+寓	ngi4
+寓	nzi4
+窜	con4
+窝	vo1
+窖	gau4
+窗	cong1
+窗	cung1
+窘	kiun3
+遍	pen1
+雇	gu4
+裕	ji4
+裤	ku4
+裤	fu4
+裙	kiun2
+禅	sem4
+禅	sam2
+禄	luk2
+谢	cia4
+谣	jau2
+谤	bong4
+谦	kiam1
+犀	thai1
+犀	thi1
+属	suk2
+屡	lui1
+强	kiong2
+粥	zuk1
+疏	tho1
+隔	gak1
+隙	kiak2
+隘	qai4
+媒	moi2
+絮	thi4
+嫂	thau3
+媚	mui2
+媚	mi2
+婿	the4
+登	den1
+缅	men3
+缆	lam3
+缉	thip2
+缉	zip1
+缎	ton4
+缓	von3
+缓	fon3
+缔	ti4
+缔	di4
+缕	liu3
+缕	leu3
+缕	lu3
+骗	pen4
+骗	cot1
+编	pen1
+编	ben1
+骚	thau1
+缘	jen2
+瑟	thit1
+瑟	thet1
+鹉	vu1
+瑞	jui3
+瑰	gui3
+瑙	nau3
+魂	fun2
+肆	thi4
+摄	sap1
+摸	mo1
+填	ten2
+搏	bok1
+缚	bok1
+脯	pu2
+攫	giok1
+厥	get1
+蕨	get1
+矍	giok1
+彏	guk1
+崛	guk1
+崛	kut1
+噱	giok1
+噱	kiok1
+塌	tap1
+鼓	gu3
+摆	bai3
+携	kui2
+搬	bin4
+搬	ban1
+摇	jau2
+搞	gau3
+塘	tong2
+摊	tan1
+聘	pin4
+斟	zim1
+蒜	thon4
+勤	kin2
+靴	tho1
+靶	ba3
+鹊	thiak1
+蓝	lam2
+墓	mu4
+幕	mu4
+蓬	pung2
+蓄	cuk1
+蒲	pu2
+蓉	jung2
+蒙	mung2
+蒸	zin1
+献	sen4
+椿	cun1
+禁	gim4
+楚	cu3
+楚	co3
+楷	kai3
+榄	lam3
+想	thiong3
+槐	fai2
+榆	ji4
+楼	leu2
+概	koi3
+概	gai4
+赖	lai4
+酪	lok2
+酬	ciu2
+感	gam3
+碍	qoi4
+碍	qai4
+碍	ngoi4
+碘	dian3
+碘	den3
+碑	bui1
+碑	bi1
+碎	thui4
+碰	pung4
+碰	cung3
+碗	von3
+碌	luk2
+尴	gam1
+雷	lui2
+零	lin2
+零	lang2
+雾	mu4
+雾	vu4
+雹	bau1
+雹	pok2
+辐	fuk1
+辐	puk1
+辑	zip1
+辑	thip2
+输	su1
+督	duk1
+频	pin2
+龄	lin2
+龄	lang2
+鉴	gam4
+睛	zin1
+睹	du3
+睦	muk1
+睡	soi4
+睬	cai3
+睬	coi3
+瞄	miau2
+睫	ciak2
+嗜	si4
+鄙	pi3
+嗦	tho1
+嗦	thok1
+愚	nzi2
+愚	ngu2
+暖	non1
+盟	min2
+盟	men2
+歇	ket1
+暗	qam4
+媕	qam1
+谙	qam4
+黯	qam4
+唵	qam3
+唵	qan3
+冉	nziam3
+冉	jam3
+彳亍	cit1 cuk1
+彳	cit1
+亍	cuk1
+亍	cok1
+娿	qo1
+鹌	qam3
+鹑	cun2
+暇	ha2
+暇	qa2
+照	zau4
+畸	ki2
+跨	ka4
+跷	kiau1
+跳	tiau4
+跳	tiau2
+跺	do4
+跪	kui3
+路	lu4
+跤	gau1
+跟	gen1
+遣	ken3
+蜈	ngu2
+蜈	ngh2
+蜗	vo1
+蛾	ngo2
+蜂	fung1
+蜕	soi1
+蜕	tui4
+嗅	siu4
+嗡	qung1
+嗡	vung1
+嗓	thong3
+署	cu3
+署	su3
+置	zi4
+置	di4
+罪	zui4
+罪	cui4
+罩	zau4
+蜀	zuk1
+幌	gong4
+幌	fong4
+错	co4
+锚	miau2
+袂	me4
+锡	thiak1
+锣	lo2
+锤	cui2
+锥	zui1
+锦	gin3
+键	ken4
+锯	gi4
+锯	gio4
+锰	mang3
+矮	qai3
+䂐(dut5)	dut1
+㾑(dep5)	dep1
+腞(dun3)	dun3
+揜(qem3,掩盖)	qem3
+盫(qem1,覆盖)	qem1
+盫仆	qem1 puk1
+䠋	bai1
+㩧	bak2
+㩧	bok2
+敀	bak2
+倗(pen4,依靠)	pen4
+辞	cu2
+稚	ci2
+稚	zi2
+稠	neu2
+颓	tui2
+愁	theu2
+愁	ciu2
+筹	ciu2
+签	ciam1
+简	gan3
+筷	kai4
+毁	kui3
+毁	fui3
+舅	kiu1
+鼠	cu3
+催	cui1
+傻	so2
+像	ciong4
+像	thiong4
+躲	biang4
+魁	kui2
+躲	do3
+衙	nga2
+衙	ngo2
+微	mi1
+微	vui1
+微	mui1
+愈	lo4
+愈	ji4
+遥	jau2
+腻	ni4
+腰	jau1
+腥	thiang1
+腮	thai1
+腮	thoi1
+腹	pat2
+腹	fuk2
+腺	then4
+腾	ten2
+鹏	pang22
+腿	tui3
+腿	bi1
+鲍	bau1
+猿	jen2
+颖	jin2
+触	cuk1
+解	gai3
+煞	that1
+𧊅	gai3
+雏	cu2
+雏	ci2
+馍	mok1
+馏	liu2
+酱	ziong4
+禀	lin3
+禀	bin3
+痹	bi4
+廓	kok1
+廓	gok1
+痴	ci1
+痰	tam2
+廉	liam2
+靖	cin4
+新	thin1
+韵	jun4
+意	ji4
+誊	ten2
+粮	liong2
+数	thu4
+煎	zen1
+塑	thok1
+塑	cuk2
+慈	cu2
+煤	moi2
+煌	vong2
+满	man1
+漠	mok2
+滇	den1
+滇	ten1
+滇	din1
+源	nzien2
+源	jen2
+滤	li4
+滤	lio4
+滥	lam4
+滔	tau1
+溪	kai1
+溜	liu2
+漓	li2
+滚	gun3
+溢	jit2
+溯	suk1
+溯	thok1
+滨	bin1
+溶	jung2
+溺	niok2
+溺	nziok2
+粱	liong2
+滩	tan1
+慎	sin3
+誉	ji4
+塞	thet1
+塞	thai4
+寞	mok1
+窥	kui1
+窟	fut1
+寝	cim3
+谨	giun3
+谨	gun1
+谨	gin3
+谨	kiun3
+褂	ga4
+裸	lo3
+福	buk1
+福	fuk1
+谬	miu4
+谬	meu4
+群	kiun2
+殿	ten4
+殿	den4
+殿	ten4
+辟	pit1
+辟	pet1
+障	zong4	
+媳	thit1
+嫉	cit2
+嫉	zi4
+嫌	sam2
+嫁	ga4
+叠	tiap2
+缚	bak1
+缚	bok1
+缝	fung2
+缠	can2
+缠	cen2
+缤	bin1
+剿	giau3
+静	cin4
+碧	bit1
+璃	li1
+赘	ngau2
+赘	qau2
+熬	qau2
+熬	ngau2
+墙	thiong2
+墟	si1
+嘉	ga1
+摧	cui1
+赫	hak2
+赫	hok2
+截	zet1
+誓	si4
+誓	se4
+境	gin4
+摘	zak1
+摔	thai1
+撇	pet1
+聚	ci1
+聚	cu1
+慕	mu4
+暮	muk
+暮	ma2
+暮	mu4
+落暮	la2 ma2
+夜暮	la2 ma2
+摹	mu1
+蔓	man4
+蔑	met2
+蔡	cai4
+蔗	za4
+蔽	bi4
+蔼	hoi3
+蔼	qoi3
+蔼	qai3
+熙	si1
+蔚	vui4
+兢	gin1
+模	mu1
+模	mu2
+模	mo2
+槛	kiam1
+槛	kam1
+榴	liu2
+榜	bong3
+榨	za4
+榕	jung2
+歌	go1
+遭	zau1
+酵	hau1
+酷	kuk2
+酿	nziong4
+酸	thon1
+碟	tiap2
+磁	sak1
+磁	cu2
+碱	giam3
+碱	gam3
+碳	tan4
+愿	nzien4
+需	thi1
+辖	got1
+裳	cong2
+辗	len4
+辗	nen3
+雌	ci2
+雌	cu2
+裳	song2
+颗	ko1
+瞅	ciu1
+墅	ja1
+墅	su4
+嗽	theu4
+踊	jung1
+蜻	cin1
+蜡	lap2
+蝇	jin2
+蜘	zi1
+蝉	can2
+蝉	san2
+嘛	ma2
+嘀	dit2
+赚	cam4
+锹	ciau1
+锻	ton4
+镀	tu4
+舞	mu3
+舞	vu3
+舔	tiam3
+稳	vun3
+熏	sun1
+箕	gi1
+算	thon4
+箩	lo2
+管	gon3
+箫	thiau1
+舆	ji2
+僚	liau2
+僧	zen1
+鼻	pi4
+魄	pok1
+魅	mui4
+魅	mi4
+貌	mau4
+膜	mong1
+膜	mok1
+膊	bok1
+膊	bak1
+膀	bong3
+鲜	then1
+疑	nzi2
+疑	ngi2
+孵	fu1
+孵	pu1
+馒	man1
+裹	go3
+敲	kau4
+豪	hau2
+膏	gau1
+遮	za1
+腐	fu3
+腐	fu4
+瘩	dap1
+瘟	vun1
+瘦	theu4
+辣	lat2
+彰	zong1
+竭	get1
+端	don1
+旗	ki2
+精	zin1
+粹	cui4
+粹	thui4
+歉	kiam4
+弊	bi4
+熄	thit1
+熔	jung2
+煽	sen1
+潇	thiau1
+漆	cit1
+漱	thu4
+漂	piau1
+漫	man4
+滴	dit1
+漾	jong4
+演	jin2
+演	jen3
+漏	leu4
+慢	man4
+慷	kong1
+寨	cai4
+赛	thai4
+寡	ga3
+察	cat1
+蜜	met2
+寥	liau2
+谭	tam2
+肇	diau4
+肇	cau4
+肇	zau4
+褐	hat1
+褐	hot1
+褪	tui4
+谱	pu2
+隧	sui3
+隧	cui3
+嫩	nun4
+翠	cui4
+熊	jung2
+凳	den4
+骡	lo2
+缩	thuk1
+慧	jui3
+慧	fui3
+撵	len3
+撵	liang3
+撵	nen3
+撕	thu1
+撕	thi1
+撒	that1
+撩	liau1
+趣	ci4
+趟	tong4
+趟	tang4
+撑	cang1
+撑	cang4
+撮	zot1
+撮	cot1
+撬	kiau4
+播	bo1
+擒	kim2
+墩	dun1
+撞	cung4
+撞	cong4
+撞	zung1
+撤	cet2
+增	zen1
+撰	zon4
+聪	tung1
+聪	cung1
+鞋	hai2
+鞍	qon1
+蕉	ziau1
+蕊	jui3
+蔬	tho1
+蕴	vun1
+蕴	jun4
+横	vang2
+槽	cau2
+㨫	gam4
+㨫	lam2
+樱	jin1
+橡	thiong4
+樟	zong1
+橄	gam3
+敷	fu1
+豌	von1
+豌	van1
+飘	piau1
+醋	cu4
+醋	thu4
+醇	cun2
+醉	zui4
+搉	gok2
+磕	kat2
+磕	kap2
+擖	kat1
+搕	kap1
+磊	lui3
+磅	bong3
+碾	len3
+震	zin3
+霄	thiau1
+霉	moi2
+谏	gan3
+踦	kia2
+徛	ki1
+蹸	lin1
+戛	gat1
+戛(ga)	ga3
+嘎	gat1
+嘎	ga1
+苓	lin2
+泠	lin2
+聆	lin2
+聆	lang2
+柃	lin2
+柃	lang2	
+拎	len1
+瞒	mun1
+瞒	man1
+题	ti2
+暴	bau4
+暴	pau4
+瞎	hat1
+嘻	si1
+嘶	thu1
+嘲	cau2
+嘹	liau2
+影	jang3
+影	qiang3
+踢	tiak1
+踏	tap2
+踩	cai3
+踪	zung1
+蝶	tiap2
+蝴	fu2
+蝠	fuk1
+蝎	get1
+蝎	hot1
+蝌	ko1
+蝗	vong2
+蝙	ben1
+嘿	he1
+嘿	het1
+嘱	zuk1
+嘱	suk1
+幢	tung2
+幢	cong1
+墨	met2
+镇	zin3
+镇	zin4
+镐	gau3
+镑	bong3
+靠	kau4
+稽	kai1
+稽	gai1
+稽	gi1
+稻	dau3
+黎	lai2
+黎	li2
+稿	gau3
+稼	ga4
+箱	thiong1
+篓	leu1
+箭	zen4
+篇	pen1
+僵	giong1
+躺	tong3
+僻	pit1
+僻	pet1
+德	det1
+艘	theu1
+膝	cit1
+膛	tong2
+鲤	li1
+鲫	zit1
+熟	suk2
+摩	mo1
+褒	bau1
+瘪	bet1
+瘤	liu2
+瘫	tan1
+凛	lin3
+颜	ngan2
+毅	nzi4
+糊	fu2
+遵	zun1
+憋	bet1
+潜	ciam3
+澎	pung2
+潮	cau2
+潭	tam2
+鲨	tha1
+澳	qau4
+潘	pan1
+澈	cet2
+澜	lan2
+澄	cen2
+澄	den1
+澄	cin2
+懂	dung3
+憔	ziau1
+懊	qau4
+憎	zen4
+额	ngak1
+额	nziat1
+翩	pen1
+褥	nziuk1
+谴	ken3
+鹤	hok
+憨	ham
+慰	vui
+𤗈(thiap5,垫)	thiap
+劈	piak
+履	li4
+豫	ji4
+缭	liau2
+撼	ham4
+擂	lui1
+操	cau1
+擅	san4
+擅	sen4
+燕	jen1
+燕	jen4
+蕾	lui2
+薯	cu3
+薯	su3
+薛	thet1
+薇	mui1
+薇	vui1
+擎	kin2
+擎	kiang2
+擎	giang2
+薪	thin1
+薄	pok2
+颠	den1
+翰	han4
+翰	hon4
+噩	ngak1
+噩	ngok1
+噩	qok1
+橱	cu2
+橙	cang2
+橘	git1
+整	zang3
+整	zin3
+融	jung2
+瓢	piau2
+醒	thiang3
+霍	hok1
+霍	kok1
+霎	thap1
+霎	thak1
+辙	cet2
+冀	ki4
+餐	con1
+嘴	zoi4
+嘴	zui3
+踱	tu4
+蹄	tai2
+蹄	te2
+蹂	nau2
+蹂	jiu2
+蟆	ma2
+螃	bong3
+器	ki4
+器	si4
+噪	zau4
+鹦	jin1
+赠	zen4
+默	met2
+黔	gim1
+镜	giang4
+赞	zan4
+穆	muk1
+篮	lam3
+篡	con4
+篷	pung2
+篱	li2
+儒	nzu2
+儒	ji2
+邀	jau1
+衡	vang2
+衡	hang2
+膨	pung2
+雕	diau1
+鲸	gin1
+磨	mo2
+瘾	jin3
+凝	nzin2
+凝	ken2
+瘸	ke2
+瘸	kio2
+凝	nen2
+凝	ngin2
+凝	ngen2
+辨	ben4
+辩	pen4
+糙	cau4
+糖	tong2
+糕	gau1
+燃	nzien2
+燃	jen2
+濒	bin1
+濒	pin1
+澡	cau1
+激	git1
+懒	lan1
+憾	ham3
+懈	hai3
+窿	lung1
+壁	biak1
+避	bi4
+缰	giong1
+缰	kiong1
+缴	giau3
+戴	dai4
+擦	cat1
+藉	zit2
+藉	cit2
+鞠	giuk1
+鞠	kiuk1
+藏	cong2
+藐	miau3
+檬	mung
+檐	jam2
+檀	tan2
+礁	ziau1
+磷	lin2
+霜	thong1
+霞	ha2
+瞭	liau2
+瞧	ciau2
+瞬	sun4
+瞳	tung2
+瞩	zuk1
+瞩	suk1
+抌	dem3
+瞪	cang4
+曙	su3
+蹋	tap1
+蹋	tep2
+蹈	tau3
+螺	lo2
+蟋	thit1
+蟀	thai4
+嚎	hau2
+赡	sam4
+赡	sem4
+穗	fui4
+穗	jui3
+簧	vong2
+魏	ngui3
+魏	vui3
+魏	kui3
+穗	jui3
+簧	fong2
+簧	vong2
+簇	cuk2
+繁	fan2
+徽	fui1
+爵	ziok1
+朦	mung2
+臊	thau1
+鳄	ngok2
+癌	ngam2
+辫	ben4
+赢	jang2
+糟	zau1
+糠	hong1
+糠	kong1
+燥	zau1
+燥	cau4
+懦	no4
+豁	hot1
+臀	tun2
+臂	bi4
+翼	jit2
+骤	zeu1
+骤	zeu4
+藕	ngau3
+鞭	ben1
+鞭	bin1
+藤	ten2
+覆	fuk2
+瞻	zam1
+蹦	ben1
+蹦	bang4
+嚣	thiau1
+镰	liam2
+翻	fan1
+鳍	ki2
+鹰	jin1
+瀑	pau4
+襟	gim1
+璧	biak1
+戳	cok1
+孽	nziak2
+孽	ngek2
+孽	ngak2
+孽	ngik2
+警	gin3
+蘑	mo2
+藻	zau3
+攀	pan1
+曝	bau4
+曝	pau4
+蹲	dun1
+蹭	zen1
+蹬	dang1
+蹬	den1
+巅	den1
+簸	bo1
+簿	pok2
+蟹	hai3
+颤	tan2
+靡	mi2
+癣	then3
+瓣	ban4
+羹	gang1
+冇	mau2
+鳖	bet1
+爆	bau4
+疆	giong1
+疆	kiong1
+鬓	bin1
+壤	nziong3
+馨	kin1
+耀	jau4
+躁	zau4
+蠕	thai2
+蠕	nziam4
+蠕	nzion1
+嚼	nziai4
+嚼	ziok1
+嚼	ziau2
+嚷	nziong3
+巍	ngui2
+籍	cit2
+鳞	lin1
+魔	mo2
+糯	no4
+灌	gon4
+譬	bi3
+蠢	cun3
+霸	ba4
+露	lu4
+霹	pit1
+躏	lin4
+躏	lun4
+黯	qam4
+髓	cui2
+赣	gung4
+囊	nong2
+镶	nziong4
+镶	thiong1
+瓤	nong2
+罐	gon4
+矗	cuk2
+矗	dung4
+乂	ngui4
+乂	ngi4
+乄	ngh3
+乜	mia1
+乜	nia1
+乜	mak1
+兀	ngut2
+弋	jit
+孑	get1
+孓	gut1
+幺	jau
+亓	ki
+韦	vui2
+廿	nzip2
+丏	men3
+卅	thap
+卅	tha
+仄	zet
+厄	qak
+厄	ngo
+仃	den
+仃	din
+仉	gi
+仂	lit
+兮	hi1
+兮	he1
+兮	si1
+刈	nzi4
+刈	nge4
+爻	qau
+爻	ngau
+卞	pen4
+闩	thon1
+闩	con1
+讣	fu4
+讣	pu4
+尹	jun3
+夬	gai
+爿	ben1
+爿	ciong2
+毋	vu
+毋	mh
+毋	mu
+毋	mu
+邗	hon
+邗	gon
+邛	kiung
+艽	kiu
+艿	jin
+札	zat
+叵	po
+匝	zap
+丕	pi
+丕	pui
+匜	je
+匜	ji
+劢	mai
+劢	ma
+卟	gai
+卟	gi
+叱	fa
+叱	cit
+叻	liak
+仨	tham
+仕	thu
+仟	cen
+仡	ngat
+仡	hat
+仫	mo
+仞	nziun
+卮	zi
+氐	di
+犰	kiu
+刍	cu
+刍	co
+邝	gong
+邙	mong
+汀	ten
+讦	get
+讧	gung
+讧	fung
+讧	qung
+讪	than
+讫	ket
+讫	kat
+尻	kau
+阡	cen
+尕	ga
+弁	pen
+驭	nzi
+驭	ngio
+匡	kong
+耒	loi
+耒	lui
+玎	den
+玎	dang
+玑	gi
+邢	sin
+圩	si
+圬	qu
+圬	vu
+圭	gui
+扦	cen
+扦	ciam
+圪	gat
+圪	ngat
+圪	nget
+圳	zun
+圹	kong
+扪	mun
+圮	pi
+圯	ji
+芊	cen
+芍	sok
+芄	van
+芄	jen
+芨	kip
+芨	gip
+芑	ki
+芎	giung
+芗	song
+亘	then
+亘	gen
+厍	sa
+夼	kong
+戍	su
+尥	liau
+乩	gi
+旯	la
+曳	je
+岌	kip
+屺	ki
+凼	tong
+囡	ngap
+钇	jet
+缶	feu
+氘	do
+氘	dau
+氖	nai
+牝	bin
+伎	gi
+伛	qu
+伛	ku
+伢	nga
+佤	va
+仵	ngu
+仵	ngh
+伥	diong
+伥	cong
+伧	cong
+伉	kong
+伫	du
+伫	cu
+囟	sin
+汆	con
+刖	nziet
+夙	thuk
+旮	ga
+刎	vun
+刎	vut
+犷	gong
+犸	ma
+舛	con
+凫	pu
+凫	fu
+邬	qu
+邬	vu
+饧	tong
+汕	than
+汔	hat
+汐	cit
+汲	gip
+汲	kip
+汜	thu
+汊	ca
+忖	cun
+忏	ciam
+忏	cen
+讴	qeu
+讵	ki
+讵	ku
+祁	ki
+讷	nap
+聿	lut
+艮	gen
+艮	gan
+艮	gin
+厾	duk
+阱	cin
+阱	ziang
+阮	ngen
+阮	ngan
+阪	ban
+丞	sin2
+妁	sok
+牟	meu
+纡	ji
+纣	ciu
+纥	qat
+纥	hat
+纨	van
+纨	jen
+玕	gon
+玙	ji
+抟	ton
+抔	peu
+圻	ki
+坂	ban
+坍	tan
+坞	qu
+坞	vu
+抃	pen
+抉	get
+㧐	thung
+芫	nzien
+邯	ham
+芸	jun
+芾	bui
+芾	fui
+苈	lit
+苣	ki
+芷	zi
+㧍	bang
+芮	biang
+苋	gen
+苋	han
+芼	mau
+苌	diang
+苌	cong
+苁	cung
+芩	gim
+芪	ki
+芡	kiam
+芟	than
+苄	pen
+苎	du
+苎	cu
+苡	ji
+杌	ngut
+杓	sok
+杞	ki
+杈	ca
+忑	tet
+忑	tit
+孛	but
+邴	biang
+邳	pi
+邳	pui
+矶	gi
+奁	liam
+豕	di
+豕	si
+忒	tet
+忒	tit
+欤	ji
+轫	nziun
+迓	nga
+邶	pui
+忐	tan
+卣	jiu
+邺	nziap
+旰	gon
+呋	pu
+呋	fu
+呒	mo
+呒	mu
+呓	nzi
+呔	tai
+呖	lit
+呃	qak1
+旸	jong
+吡	bit
+吡	pi
+町	tang
+町	den
+虬	kiu
+呗	bai
+呗	bui
+吽	hung
+吣	thim
+吲	jin
+帏	vui
+岐	ki2
+岈	ha
+岈	nga
+岘	han
+岑	kim2
+岑	cem2
+岚	lam2
+兕	thi4
+囵	lun1
+囫	fut2
+钊	zau
+钋	pok
+钌	liau
+迕	ngu
+迕	ngh
+氙	than
+氚	con
+牤	mong
+佞	nin
+邱	kiu
+攸	jiu
+佚	jit
+佝	geu
+佟	dung
+佗	to
+伽	ga
+彷	pong
+彷	fong
+佘	sa
+佥	ciam
+孚	fu
+孚	pu
+豸	ci
+坌	bun
+肟	vo
+邸	di
+邸	de
+奂	fon
+劬	ki
+狄	tit2
+狁	jun
+鸠	geu1
+鸠	giu1
+邹	ziu
+饨	dun
+饨	tun
+饩	si
+饪	nzim
+饫	ji
+饬	cit
+亨	hang
+亨	pang
+庑	mu
+庑	vu
+庋	gui
+疔	dang
+疖	zet
+肓	fong
+闱	vui
+闳	fen
+闵	min
+羌	kiong
+炀	jong
+沣	fung
+沅	nzien
+沔	men
+沤	qeu
+沌	tun
+沏	cet
+沚	zi
+汨	mit
+汩	jit
+汩	qet
+沂	ngi
+沂	ji
+汾	fun
+沨	pung
+沨	fung
+汴	pen
+汶	mun
+汶	vun
+沆	kong
+沆	hong
+迒	hong
+忼	kong
+匟	kong
+沩	vui
+泐	let
+泐	lit
+怃	vu
+怃	mu
+怄	qeu
+忡	cung
+忤	ngu
+忤	ngh
+忾	si
+怅	cong
+忻	sun
+忪	cung
+怆	cong
+忭	pen
+忸	niu
+忸	nziuk
+忸	nziu
+诂	gu
+诃	ho
+诅	zu
+诋	di
+诌	ciau
+诏	zau
+诒	ji
+孜	zu
+陇	lung
+陀	to
+陂	po
+陉	gin
+妍	ngen
+妩	vu
+妪	ji
+妣	bi
+妊	nzim
+妗	gim
+妫	vui
+妞	nziu
+妞	niu
+姒	thi
+妤	ji
+邵	sau
+劭	diau
+刭	giang
+刭	gin
+甬	jung
+邰	toi
+纭	jun
+纰	pi
+纴	nzim
+纶	lun
+纾	su
+玮	vui
+玡	nga
+玭	pin
+玠	gai
+玢	bin
+玢	fun
+玥	nziet
+玦	ket
+盂	ji
+㩉	lap1
+忝	tiam
+匦	gui
+坩	gam
+抨	pang
+抨	pin
+拤	cia
+坫	zam
+拈	nziam
+拈	zam
+垆	lu
+抻	sin
+抻	cun
+劼	git
+拃	zan
+拊	fu
+拊	pu
+坼	cak
+坻	di
+坻	dai
+㧟	fui
+坨	to
+坭	ni
+坭	nai
+抿	min
+抿	mun
+坳	qau
+耶	ja
+苷	gam
+苯	bun
+苤	pui
+苤	pi	
+茏	lung
+苫	zam
+苫	tiam
+苜	muk
+苴	ca
+苴	cia
+苴	cu
+苒	nziam
+苒	jam
+苘	ken
+苘	kang
+茌	ci
+苻	fu
+苓	lin
+苓	len
+茚	jang
+茚	jin
+茆	mau
+茑	diau
+茓	set
+茔	jen
+茔	jin
+茔	jang
+茕	kiang
+茕	kin
+茀	but
+茀	fut
+苕	tiau
+枥	lit
+枇	pi
+杪	miau
+杳	jau3
+杳	nziau3
+杳	miau3
+枧	gen3
+枧	gan3
+杵	cu2
+枨	dang
+枨	cang
+枞	cung
+枋	biang
+枋	fong
+杻	ciu
+杷	pa
+杼	cu
+杼	zu
+矸	gon
+砀	tong
+刳	ku
+奄	jam
+瓯	qeu
+殁	mut
+郏	gap
+轭	qak
+郅	cit
+郅	zit
+鸢	jon
+鸢	jen
+盱	si
+盱	hi
+昊	hau
+昊	qau
+昙	tam
+杲	gau
+昃	zet
+咂	zap
+呸	pui
+呸	pi
+昕	sun
+昀	jun
+旻	min
+昉	fong
+炅	gin
+炅	giun
+炅	gui
+咔	ka
+畀	bi
+虮	gi
+咀	zu
+呷	hap
+呷	qap
+黾	men
+呱	ga
+呤	len
+呤	lin
+咚	dung
+噹	diong
+咆	pau
+咛	nen
+呶	nau
+呶	na
+呣	nh
+呣	mh
+呣	ngh
+呦	jo
+呦	jiu
+咝	thi
+岢	ko
+岿	kui
+岬	gap
+岫	jiu
+帙	cit
+岣	geu
+峁	mau
+刿	gui
+迥	fang
+迥	gang
+岷	min
+剀	koi
+帔	pi
+峄	jit
+沓	tap
+囹	len
+囹	lin
+罔	mong
+钍	tu
+钎	cen
+钏	con
+钒	fan
+钕	na
+钗	cai
+邾	zu
+迮	zak
+迮	zok
+牦	mau
+竺	zuk
+迤	je
+迤	ji
+佶	git
+佶	get
+佬	lau
+佰	bak
+侑	jiu
+侉	ka
+侉	qu
+臾	kui
+臾	ji
+岱	toi
+侗	tung
+侃	kon
+侃	kan
+侏	zu
+侩	koi
+佻	tiau
+佾	jit
+侪	cai
+佼	gau
+佯	jong
+侬	nung
+帛	pak1
+帛	bet1
+阜	feu
+阜	fu
+侔	meu
+徂	cu
+刽	kui
+刽	koi
+郄	kiak
+怂	thung
+籴	tak
+籴	tap
+瓮	qung
+瓮	qang
+瓮	vung
+戗	cong
+肼	ziang
+䏝	zon
+肽	tai
+肱	gung
+肫	kin
+剁	do
+剁	dok
+迩	nzi
+郇	sun
+郇	thun	
+狙	zu
+狎	qap
+狍	pau
+狒	pui
+狒	fui
+咎	giu
+炙	zak
+枭	giau
+饯	cen
+饴	ji2
+冽	let
+冼	then
+庖	bau
+疠	le
+疝	than
+疡	jong
+兖	jen
+妾	ziap
+劾	het
+劾	hai
+炜	vui
+𬉼	qeu
+炖	dun
+炘	sun
+炝	cong
+炔	ket
+泔	gam
+沭	sut
+泷	lung
+泸	lu
+泱	jong
+泅	siu
+泗	thi
+泠	lang
+泠	lin
+泺	luk
+泺	lok
+泺	puk
+泖	mau
+泫	sen
+泮	pan
+沱	to
+泯	min
+泓	fen
+泾	gin
+怙	fu3
+怙	ku3
+怵	cut2
+怦	pang1
+怦	pin1
+怵	tut2
+怛	dat1
+怛	dan3
+怏	jong1
+怍	cok1
+怍	zok1
+㑜	zet1
+㤘	cau3
+怩	ni1
+怩	ne1
+怫	pui4
+怫	put1
+怫	fut1
+怿	jit2
+宕	tong3
+穹	kiung2
+穹	giung2
+宓	met1
+宓	mit1
+诓	kong1
+诓	gong1
+诔	lui
+诖	gai1
+诘	kit1
+戾	le4
+戾	lit1
+诙	foi1
+戽	fu4
+郓	jun
+衩	ca
+衩	cai
+祆	qau
+祎	vui
+祉	zi
+祇	ki
+祇	zi
+诛	zu
+诜	then
+诟	keu
+诟	geu
+诠	con
+诣	zi
+诤	zang
+诤	zin
+诧	ca
+诨	ngun
+诨	fun
+诩	qu
+诩	ji
+戕	ciong
+孢	bau
+亟	gip
+亟	kip
+亟	ki
+陔	gai
+陔	goi
+妲	dat
+妲	dan
+妯	cuk
+姗	than
+帑	nu
+帑	tong
+弩	nu
+孥	nu
+孥	no
+驽	nu
+虱	thit
+虱	thet
+迦	ga
+迨	dai
+绀	gam
+绁	thet
+绂	but
+绂	fut
+驷	thi
+驸	fu
+绉	nziu
+绉	ziu
+绌	zut
+驿	jit
+骀	toi
+甾	zai
+甾	zi
+珏	nziuk
+珐	fat
+珂	ko
+珑	lung
+玳	toi
+珀	pak
+顸	hon
+顸	han
+珉	min
+珈	ga
+拮	git
+拮	get
+垭	qa
+挝	ga
+挝	go
+挝	vo
+垣	jen
+挞	tat
+垤	det
+赳	giu
+贲	pun
+贲	pui
+垱	dong
+垌	tung
+郝	hok
+垧	song
+垓	goi
+垓	gai
+挦	cim
+垠	nziun
+垠	ngin
+垠	jin
+茜	cen
+荚	gap
+荑	ji
+贳	se
+荜	bit
+莒	lu
+莒	li
+莒	gi
+茼	tung
+茴	fui
+茱	zu
+莛	tin
+荞	kiau
+荞	giau
+茯	puk
+茯	fuk
+荏	nzim
+荇	hen
+荃	cen
+荃	con
+荟	qoi
+荟	zen
+荟	fui
+荀	sun
+荀	thun
+茗	miang
+茗	men
+荠	ci
+茭	gau
+茨	cu
+茨	ci
+垩	qok
+荥	jin
+荦	lok
+荨	tam
+荨	cim
+荩	zin
+剋	ket
+荪	thun
+茹	nzio
+茹	nzia
+荬	mai
+荮	ciu
+柰	nai
+柰	noi
+栉	zit
+栉	zet
+柯	ka
+柯	ko
+柘	za
+栊	lung
+柩	giu
+枰	pin
+栌	lu
+柙	qap
+柙	gap
+枵	thiau
+枵	hau
+柚	jiu
+枳	zi
+枳	zit
+柞	zok
+柞	cok
+柝	tok
+栀	gi
+栀	zi
+柢	di
+栎	lit
+枸	geu
+柈	pan
+柁	to
+枷	ga
+柽	cin
+剌	lat
+酊	dang
+酊	den
+酊	din
+郦	li
+甭	bung
+砗	ca
+砘	dun
+砒	pi
+斫	dok
+砭	ben
+砜	fung
+奎	kui
+耷	jung
+虺	fui
+殂	cu
+殇	song
+殄	ten3
+殆	tai
+轱	gu
+轲	ko
+轳	lu
+轶	jit
+轸	zin
+虿	cai
+毖	bi
+觇	cam
+尜	ga
+哐	kong
+哐	kang
+眄	men
+𠳐	bong
+郢	jang
+郢	jin
+眇	miau
+眊	mau
+眈	dam
+眈	cim
+眈	sim
+禺	nzi
+哂	sin
+咴	foi
+曷	qat
+曷	hot
+昴	mau
+昱	juk
+昵	ne
+昵	ni
+昵	nit
+咦	ji
+哓	kiau
+哓	hiau
+哔	bit
+哔	bi
+畎	ken
+毗	pi
+呲	ce
+呲	ci
+胄	ciu
+畋	ten
+畈	fan
+畈	pan
+虼	gat
+虻	mong
+盅	zung
+咣	gong
+哕	qiak
+哕	qiat
+哕	fui
+剐	ga
+郧	jun
+咻	siu
+囿	jiu
+咿	ji
+哌	pai
+哙	qai
+哙	koi
+哚	do
+咯	lok
+咯	gok
+咩	me
+咩	mi
+咤	za1
+咤	za4
+咤	ca4
+哝	nung
+哏	gen
+哏	han
+哏	qen
+哞	meu	
+峙	ci
+峙	zi
+峣	gau
+峣	ngau
+罘	feu
+帧	zin
+峒	tung
+峤	kiau
+峋	thun
+峋	sun
+峥	zang
+峥	zin
+贶	song
+贶	thung
+钚	but
+钛	tai
+钡	bui
+钣	ban
+钤	lang
+钤	lin
+钤	len
+钨	qu
+钨	vu
+钫	fong
+钯	ba
+氡	dung
+氟	fut
+牯	gu
+郜	gau
+秕	pi
+秭	zi
+竽	ji
+竽	jo
+笈	gip
+笈	kip
+笃	duk
+俦	ciu
+俨	nziam
+俅	kiu
+俪	li
+叟	theu
+垡	fat
+垡	pet
+牮	zen
+俣	ngu
+俣	ngh
+俚	li
+皈	gui
+俑	jung
+俟	thu
+逅	geu
+逅	heu
+徇	cun
+徇	sun
+徇	thun
+徉	jong
+舢	than
+俞	ji
+郗	ci
+俎	zu
+郤	kiak
+爰	jen
+郛	fu
+郛	pu
+瓴	lin
+胨	dung
+胪	lu
+胛	gap
+胂	sin
+胙	cu
+胙	cok
+胍	ga
+胗	kin
+胗	zin
+胝	ci
+朐	gu
+朐	gi
+胫	gin
+胫	sin
+鸨	bau
+匍	pu
+狨	jung
+狯	goi
+狯	gai
+飑	pau
+飑	bau
+狩	siu
+狲	thun
+訇	hung
+逄	pong
+逄	pang
+昝	zam
+饷	song
+饸	gap
+饹	lok
+胤	jin
+孪	lon
+娈	lon
+弈	jit
+奕	jit
+庥	thiu
+疬	lit
+疣	jiu
+疥	gai
+疭	zung
+疭	cung
+庠	cong
+庠	song
+竑	hung
+彦	ngan
+彦	ngen
+飒	thap
+闼	tap
+闾	lu
+闾	li
+闿	koi
+阂	ngoi
+阂	het
+羑	jiu
+迸	bang
+迸	bin
+籼	then
+酋	kiu
+炳	biang
+炻	sak
+炽	ci
+炯	gin
+炯	gang
+炯	gen
+烀	fu
+炷	zu
+烃	gin
+烃	tin
+洱	nzi
+洹	jen
+洧	jui
+洌	let
+浃	gap
+洇	jin
+洄	fui
+洙	zu
+涎	cen
+涎	jen
+洎	ki
+洫	sit
+洫	set
+浍	goi
+浍	qoi
+洮	tau
+洵	thun
+洵	sun
+浒	fu
+浔	cim
+浕	zin
+洳	ji
+恸	tung
+恓	thi
+恹	jam
+恫	tung
+恺	koi
+恻	zet
+恂	thun
+恂	sun
+恪	kok
+恽	jun
+宥	jiu
+扃	giang
+扃	gin
+扃	gen
+衲	nap
+衽	nzim4
+衿	gim1
+袂	me4
+祛	ki
+祛	ku
+祜	gu
+祓	but
+祓	fut
+祚	cu4
+祚	co4
+祚	zok1
+诮	ziau
+诮	ciau
+祗	zi
+祢	nzi
+祢	ni
+祢	ne
+诰	gau4
+诰	gau3
+诳	kong
+鸩	cim1
+鸩	dim1
+鸩	dam1
+昶	cong
+郡	kiun2
+郡	kun2
+郡	giun2
+咫	zit1
+咫	zi4
+咫	ze4	
+弭	mi2
+弭	me2
+牁	go1
+牁	ga1
+胥	the4
+陛	bi4
+陟	zit1
+娅	qa
+娅	ja
+姮	hen
+娆	nziau
+姝	zu
+姣	gau
+姘	pin
+姹	ca
+怼	dui
+羿	nge
+羿	ji
+炱	toi
+火炱	fo tam
+矜	gim
+绔	ku
+骁	gau
+骁	giau
+骅	fa
+绗	hang
+绛	gong
+骈	pen
+骈	pin
+骈	piang
+耖	cau
+挈	ke
+挈	get
+珥	nzi
+珙	kiung
+顼	suk
+珰	dong
+珩	hang
+珧	jau
+珣	sun
+珣	thun
+珞	lok
+琤	zin
+琤	zang
+琤	zen
+珲	fun
+敖	ngau
+敖	qau
+恚	fui
+埔	bu
+埔	pu
+埕	tang
+埘	si
+埙	sun
+埚	go
+挹	jip
+耆	ki
+耄	mau
+埒	lot
+捋	lod
+贽	zi
+垸	van
+捃	giun
+盍	hap
+盍	qap
+荸	put
+莆	pu
+莳	si
+莴	vo
+莪	ngo
+莠	jiu
+莓	moi
+莜	jiu
+莅	li
+荼	tu
+莩	piau
+莩	pu
+荽	thui
+莸	jiu
+荻	tit
+莘	thin
+莎	tha
+莞	gon
+莞	van
+莨	long
+莨	liong
+鸪	gu
+莼	cun
+栲	kau
+栳	lau
+郴	cim
+桓	van
+桓	fan
+桡	nziau
+桡	nau
+桎	zi
+桢	zin
+桤	ki
+梃	tin
+栝	gat
+栝	tiam
+桕	giu
+桕	gau
+桁	hang
+桧	goi
+桧	kui
+桅	ngui
+桅	gui
+栟	bin
+桉	qon
+栩	si
+栩	hi
+逑	kiu
+逋	bu
+彧	juk
+鬲	gak
+鬲	lit
+豇	gong
+酐	gan
+逦	le
+逦	li
+厝	cu
+厝	co
+孬	nau
+孬	vai
+砝	fat
+砹	qai
+砺	le
+砺	li
+砧	zem
+砷	sin
+砟	za
+砼	tung
+砥	di
+砣	to
+剞	gi
+剞	ge
+砻	lung
+轼	sit
+轾	zi
+辂	lu
+鸫	dung
+趸	dun
+龀	cun
+龀	tun
+鸬	lu
+虔	ken
+逍	thiau
+眬	lung
+唛	mak
+晟	sin
+眩	sen
+眙	ci
+眙	ji
+哧	ci
+哽	kang
+哽	gang
+唔	ngh
+晁	cau
+晏	jen
+晏	ngan
+晏	qan
+鸮	jau
+趵	bok
+趿	thap
+畛	zin	
+蚨	fu
+蚨	pu
+蚜	nga
+蚍	pi
+蚋	nziui
+蚋	jui
+蚋	nut
+蚬	han
+蚝	mau
+蚧	gai
+唢	tho
+圄	ngu
+圄	ngh
+唣	cau
+唏	si
+盎	qong
+盎	qang
+唑	co
+崂	lau
+崃	loi
+崃	lai
+罡	gong
+罟	gu
+峪	juk
+觊	gi
+赅	goi
+钰	nziuk
+钲	zang
+钲	zin
+钴	gu
+钵	bat
+钹	pat
+钺	vat
+钽	tan
+钼	muk
+钿	ten
+铀	jiu
+铂	pak
+铂	pok
+铂	bok
+铄	sok
+铆	liu3
+铈	si
+铉	sen
+铊	to
+铋	bit
+铌	ni
+铍	pi
+䥽	pat
+铎	tok
+铎	dok
+氩	ja
+氤	jin
+氦	hoi
+毪	meu
+舐	se1
+秣	mat1
+秫	sut
+盉	fo
+笄	gi
+笕	gen4
+笊	zau
+笏	fut2
+笆	ba1
+俸	pung3
+俸	fung4
+倩	cen4
+俵	biau3
+偌	nzia4
+若	nziok2
+若	nzia1
+俳	pai2
+佇	nen1
+咷	diau4
+咷	tau2
+咷	tau1
+䚇	then4
+覘	then4
+覗	thu1
+覗	thin4
+䚇	thin4
+㧙	met1
+靡	me2
+弥	me1
+扞	gan4
+擁	qung3
+儭	cin4
+親	cin4
+逐	diak2
+膎	hai1
+閪	hai1
+膦	lin3
+膦	lim3
+跍	keu2
+踎	meu1
+趺	bu1
+搦	net1
+簕	net1
+䁙	qen3
+㰽	qen4
+吂	men2
+覗	thi1
+俶	suk1
+倬	zok1
+倏	suk1
+㜷	me1
+恁	nim1
+恁	nzim1
+倭	qo1
+倭	vo1
+倪	nzi1
+倪	ne4
+俾	bi
+倜	tit1
+倜	ti
+隼	thun3
+隽	zun4
+倌	gon
+倥	kung1
+臬	nget
+蓧	tiau
+皋	gau
+郫	pi
+倨	gi3
+倨	gio1
+倨	gio3
+衄	nuk
+颀	ki
+徕	loi
+舫	fong
+舫	pong
+釜	bu3
+釜	fu3
+奚	kai1
+奚	hai1
+衾	kim1
+胯	ka1
+胱	gong1	
+胴	tung2
+胭	jen1
+胭	jin1
+脍	koi4
+胼	pin
+朕	zim3
+脒	mi1
+胺	qon1
+鸱	ci
+玺	si3
+玺	sai3
+鸲	gu1
+鸲	geu1
+狷	gen1
+猁	li
+狳	ji
+猃	liam
+狺	nziun
+狺	jen
+逖	tit2
+桀	ket2
+袅	niau3
+袅	nziau3
+饽	put
+凇	cung
+栾	lon2
+挛	len2
+挛	lon2
+亳	pok
+疳	gam1
+疴	ko2
+疴	ko1
+袔	ko4
+袔	ho4
+胢	ka4
+疸	dan
+疽	zu
+痈	jung
+疱	pau
+痂	ga
+痉	gin
+衮	gun
+凋	diau
+颃	hong
+恣	zu
+恣	zi
+旆	pui
+旄	mau
+旃	zen
+阃	kun
+阄	geu
+阄	giu
+訚	nziun
+訚	nzin
+阆	long
+恙	jong
+粑	ba
+朔	thok
+郸	dan
+烜	se
+烜	van
+烨	jap
+烩	fui
+烊	jong
+剡	jam
+郯	tam
+烬	cin
+涑	cuk
+涑	thuk
+浯	ngh
+浯	ngu
+涞	loi
+涟	len
+娑	tha
+娑	tho
+涅	net
+涠	vui
+浞	thok
+浞	zuk
+涓	gen
+浥	jip
+涔	cim	
+浜	bang
+浜	bin
+浠	si
+浣	fan
+浣	van
+浚	zun
+悚	thung
+悭	gan
+悭	gen
+悭	qan
+悭	han
+悝	li
+悒	jip
+悌	ti
+悛	zun
+宸	sin
+窈	jau
+剜	ven
+剜	von
+诹	zeu
+诹	zu
+冢	zung
+冢	cung
+诼	zok
+诼	diok
+袒	tan
+袢	pan
+袢	fan
+祯	zin
+诿	vui
+谀	ji
+谂	sim
+谄	ham
+谇	zut
+屐	kiak
+屙	qo
+陬	zeu
+勐	mang
+奘	zong4
+奘	cong4
+牂	zong1
+蚩	ci1
+陲	cui1
+姬	gi1
+娠	sin2
+娌	li2
+娉	pin3
+娲	ga1
+娲	va1
+娩	men1
+娴	qan2
+娴	han2
+娣	tai1
+娣	ti4
+娓	mui1
+娓	vui1
+婀	qo1
+畚	bun4
+逡	zun1
+逡	cun1
+绠	gen1
+绠	gang1
+骊	li4
+绡	thiau1
+骋	cin3
+绥	thui1
+绦	tiau2
+绨	tai1
+绨	ti4
+骎	cim1
+邕	jung1
+鸶	thu1
+鸶	thi1
+彗	jui3
+彗	thui4
+彗	fui4
+耜	thi4
+耜	si4
+焘	tau1
+舂	zung1
+琏	len4
+琇	thiu4
+麸	pu1
+麸	fu1
+揶	ja1
+埴	sit2
+埴	cit2
+埯	jam3
+捯	dau
+掳	lu3
+掴	gok1
+埸	jit2
+埵	cui2
+赧	nan3
+埤	bi
+捭	pai1
+逵	kui2
+埝	diam4
+埝	nziap2
+堋	pen2
+堋	pang2
+堍	tu
+掬	kiuk1
+鸷	zip1
+掖	jit1
+捽	cut
+掊	peu
+堉	juk
+掸	tan
+捩	lit
+掮	gen
+悫	kok
+埭	tai
+埽	thau
+掇	zot
+掇	dot
+掼	gan
+掼	gon
+聃	dam1
+菁	cin1
+菁	ciang1
+萁	ki
+菘	thung
+堇	giun3
+萘	nai4
+萋	ci1
+萋	ce1
+菽	suk1
+菖	cong1
+萜	tiap1
+萸	ji2
+萑	fan2
+萑	zui1
+棻	fun1
+棻	pun1
+菔	pet1
+菔	puk1
+菟	tu4
+萏	tam
+萃	cui4
+菏	ho2
+菹	zu3
+菪	tong3
+菅	gan1
+菀	von3
+菀	van3
+萦	jin2
+萦	jang2
+菰	gu1
+菡	ham2
+梵	pam2
+梵	fam2
+梿	len2
+梏	kuk1
+梏	guk1
+觋	qet1
+觋	qat1	
+桴	feu2
+桴	pu2
+桷	gok1
+梓	thin1
+棁	cet1
+棁	zot1
+桫	tho1
+棂	lin2
+啬	thet1
+郾	jan4
+郾	jen4
+匮	kui4
+敕	cit1
+豉	si4
+鄄	gen
+酞	tai
+酚	fun1
+戛	kat1
+戛	gat1
+硎	sin2
+硭	mong
+硒	thi
+硖	gap
+硗	kiau
+硐	tung
+硇	nau
+硌	lok
+鸸	nzi
+鸸	ji
+瓠	fu
+瓠	pu
+匏	pau
+厩	giu
+龚	giung1
+殒	jen2
+殒	jun3
+殓	liam3
+殍	piau2
+赉	loi2
+赉	lai2
+雩	ji2
+辄	zap1
+堑	ciam4
+眭	gui
+眦	zi1
+眦	cu1
+眦	cia1
+啧	zak1
+晡	bu1
+晤	ngu4
+晤	ngh2
+眺	tiau3
+眵	ci
+眸	meu2
+圊	cin
+喏	nzia4
+喏	nak1
+喵	miau4
+啉	lim2
+勖	suk1
+晞	si1
+唵	qam2
+晗	ham2
+冕	men1
+啭	zon3
+畦	kui
+趺	bu
+趺	fu
+啮	ngat1
+跄	cong2
+蚶	gam1
+蚶	ham1
+蛄	gu3
+蛎	li4
+蛎	le4
+蛆	cu3
+蛆	zu3
+蚰	jiu
+蛊	gu3
+圉	nzi3
+蚱	za4
+蚱	zak1
+蛉	lin2
+蛏	sin4
+蚴	jiu4
+啁	zau1
+啁	diau1
+啕	tau1
+唿	fut1
+啐	cut2
+唼	ziap1
+唷	juk1
+啖	tam2
+啵	bo1
+啶	tin4
+啷	long2
+唳	lit1
+唳	li4
+唰	thot1
+唰	sot1
+啜	zot1
+啜	dot1
+帻	zak1
+崚	lin2
+崦	qam3
+崦	jam3
+帼	gok1
+崮	gu4
+崤	ngau2
+崆	kung1
+赇	kiu
+赈	zin3
+赊	ca1
+铑	lau
+铒	nzi
+铗	giap2
+铗	gap2
+铙	nziau
+铟	jin
+铠	koi3
+铡	zet1
+铢	zu
+铣	then
+铤	tin
+铧	fa
+铨	con
+铩	that
+铪	hap
+铫	jau
+铫	ciau
+铫	tau
+铬	gok
+铮	zang
+铮	zin
+铯	thet
+铰	gau
+铱	ji
+铳	cung
+铵	qon
+铷	ji
+阞	lak1
+氪	ket1
+牾	ngu2
+牾	ngh2
+鸹	gat1
+秾	nung
+逶	vui1
+笺	ciam1
+笺	cen1
+筇	kiung2
+笸	bo3
+笪	dat1
+笮	zak2
+笠	lip1
+笥	thu1
+笤	zau1
+笳	ga1
+笾	ben
+笞	ci
+偾	pun
+偾	fun
+偃	jen1
+偕	gai1
+偕	hai2
+偈	ket1
+傀	kui3
+偬	cung
+偻	leu2
+皑	ngoi2
+皑	qoi2
+皎	gau3
+鸻	hang
+徜	song
+舸	ko
+舻	lu
+舴	cok
+舷	sen
+舷	hen
+龛	kam1
+翎	lin
+脬	pau
+脘	van
+脲	niau
+匐	puk1
+匐	pet1
+猗	ji3
+猡	lo2
+猞	sa3
+猝	zut1
+猝	cut1
+斛	fuk2
+斛	fu2
+猕	mi2
+馗	kui2
+馃	go
+馄	fun2
+鸾	lon2
+孰	suk2
+庹	tu2
+庾	ji2
+痔	ci
+痍	ji2
+疵	pi1
+疵	ci1
+翊	jit2
+旌	zin1
+旎	ni
+袤	meu2
+袤	mau4
+阇	du3
+阈	jit1
+阈	jet1
+阈	vet1
+阉	jam1
+阊	cong1
+阋	sit
+阍	fun
+阏	qat
+羟	kang
+粝	li
+粕	pak
+敝	pet
+焐	ngu
+烯	si
+焓	ham
+烽	fung
+焖	mun
+烷	van
+焗	kiuk
+焗	kuk
+焗	guk
+渍	zi
+渚	du
+渚	zu
+淇	ki
+淅	thit
+淅	si
+淞	thung
+淞	cung
+渎	duk
+渎	tuk
+涿	duk1
+涿	diok1
+淖	nau
+挲	tho
+淠	pi
+涸	qok1
+涸	kok1
+涸	gok1
+涸	hok1
+渑	men3
+淦	gam4
+淝	pui2
+淬	cui4
+涪	 feu2
+涪	 pu2
+淙	zung1
+淙	cung1
+涫	gan
+涫	gon
+渌	luk	
+淄	zi1
+淄	ci1
+惬	gap1
+惬	kap1
+惬	hap1
+悻	hen4
+悱	pui1
+悱	fui1
+惝	cong
+惘	mong2
+悸	gui4
+悸	gi4
+惆	cu2
+惆	ciu2
+惚	fut1
+惇	dun1
+惮	san4
+惮	don4
+惮	tan4
+惮	dan4
+窕	tiau
+谌	sim
+谏	gan
+扈	fu
+皲	gun
+皲	giun
+谑	nziok
+谑	hiok
+裆	dong
+裆	nong
+袷	gap
+裉	gen
+谒	qet
+谒	qat
+谔	ngok2
+谕	lu
+谕	ji
+谖	hen
+谖	jen
+谖	van
+谗	cam
+谙	qam
+谛	ti
+谛	di
+谝	pen
+逯	luk
+郿	mi
+隈	voi
+隈	qoi
+粜	tiau
+隍	vong
+隗	ngui
+隗	gui
+婧	ziang
+婧	ciang
+婊	biau
+婕	ciak
+娼	cong
+婢	bi
+婵	can
+婵	san
+胬	nu
+袈	ga
+翌	jit
+恿	jung
+欸	qe
+绫	lin
+骐	ki
+绮	ki
+绯	fui
+绱	song
+绱	ziong
+骒	ko
+绲	kun
+骓	cui
+骓	zui
+绶	siu
+绺	liu
+绻	gen
+绻	ken
+绾	van
+骖	cam
+缁	ci
+缁	zi
+巢	cau
+琳	lim
+琢	ziok
+琼	kiung
+琪	ki
+瑛	jin
+琦	ki
+琥	fu
+琨	kun
+靓	liang
+靓	ziang
+琰	jam
+琮	zung
+琯	gon
+琬	von
+琬	van
+琛	cim
+琚	gi
+辇	len
+鼋	ngen
+鼋	jen
+揳	set
+揳	ket
+揳	het
+堞	tiap
+搽	ca
+揸	za
+揠	jat
+堙	jin
+趄	ci
+揖	thip1
+揖	zip1
+咠	zip1
+葺	zip1
+葺	cip1
+颉	git
+塄	lin
+揿	kim
+耋	det
+揄	ji
+蛩	kiung
+蛰	cit
+蛰	cet
+塆	van	
+摒	bin
+揆	kui
+掾	jen
+聒	gat
+葑	fung
+葚	sim
+靰	ngut
+靸	thap
+葳	vui
+葺	jung
+葸	si
+萼	ngok2
+葆	bau
+葩	pa
+葶	tin
+蒌	leu
+萱	sen
+戟	git
+葭	ga
+楮	cu
+楮	du
+棼	fun
+棼	pun
+椟	tuk	
+棹	cau
+棹	zok
+椤	lo1
+棰	cui2
+赍	zi
+赍	zai
+椋	liong
+椁	gok
+椪	bin
+棣	ti
+椐	gi
+鹁	but
+鹁	put
+覃	tam
+覃	cim
+酤	gu
+酢	cu
+酢	co
+酢	cok
+酡	to
+鹂	li
+厥	ket
+殚	dan
+殛	git
+雯	vun
+雱	pong
+辊	gun
+辋	mong
+椠	ciam
+辍	zot
+辎	zi
+斐	fui
+睄	thiau
+睑	giam
+睇	ti
+睃	zun
+戢	cip
+戢	sip
+喋	tiap
+喋	diap
+嗒	dep
+嗒	dap
+嗒	tap
+喃	nam
+喱	li
+喹	kui
+晷	gui
+喈	gai
+跖	zak
+跖	dak
+跗	fu
+跞	lit
+跚	than
+跎	to
+跏	ga
+跆	toi
+蛱	gap
+蛲	nziau
+蛲	nzau
+蛭	zit
+蛭	det
+蛳	thu
+蛳	thi
+蛐	kiuk
+蛔	fui
+蛔	thai
+蛞	gat
+蛞	kat
+蛴	ce
+蛟	gau
+蛘	jong
+喁	jung
+喁	ngeu
+喟	vui
+喟	kui
+啾	ciu
+啾	ziu
+嗖	theu
+喑	jim
+嗟	zia
+喽	leu
+嗞	zi
+嗞	zu
+喀	kak
+喔	qok
+喔	vo
+喙	zoi
+喙	cui
+嵘	jung
+赋	fu
+崴	vui
+遄	con
+詈	li
+嵎	ji
+嵎	ngu
+崽	ze
+嵬	ngui
+嵛	ji
+嵯	ca
+嵯	co
+嵝	lu
+嵝	leu
+嵫	zu
+幄	quk
+嵋	mi
+嵋	mui
+赕	tam
+铻	ngo
+铻	ngh
+铼	loi
+铿	gen
+锃	cang
+锂	li
+锆	gau
+锇	ngo
+锉	co
+锏	gan
+锑	ti
+锒	long
+锔	kuk
+锕	qo
+掣	ce
+矬	co
+氰	ciang
+毳	cui
+毽	gen
+犊	tuk
+犄	ji
+犋	gu
+犋	ki
+鹄	hok
+鹄	gok
+鹄(qok1)	qok
+犍	gen
+嵇	qe
+嵇	gi
+黍	su
+稃	fu
+稂	long
+睥	pe
+筚	bit
+筵	jen
+筌	con
+傣	dai
+傣	tai
+傈	lit
+舄	thit
+牍	duk
+傥	tong
+傧	bin
+遑	fong
+遑	vong
+傩	no
+遁	dun
+徨	fong
+徨	vong
+媭	thi
+畲	sa
+弑	sit
+颌	gap
+颌	qap
+翕	sip
+釉	jiu
+鹆	juk
+舜	sun
+貂	diau
+腈	zin
+腌	jap
+腓	fui
+腆	den3
+腴	ji
+腑	fu
+腚	tin
+腱	ken
+鱿	jiu
+鲀	dun
+鲂	fong
+颍	jin
+猢	fu
+猹	ca
+猥	voi
+猥	vui
+飓	gu
+飓	gi
+觞	song
+觚	gu
+猱	nau
+颎	gin
+飧	thun
+馇	za
+馊	theu
+亵	thet
+脔	lon
+裒	feu
+裒	peu
+裒	bau	
+痣	zi
+痨	lau
+痦	ngu
+痦	ngh
+痞	pi
+痤	co
+痫	han
+痫	qan
+痧	tha
+赓	gang
+竦	thung
+瓿	bu
+瓿	piau
+瓿	pu
+啻	si
+啻	ci
+啻	di
+颏	hai
+颏	hoi
+颏	goi
+鹇	han
+阑	lan
+阒	ket
+阕	ket
+粞	thi
+遒	ciu
+遒	siu
+孳	zu
+焯	cok
+焯	zok
+焜	kun
+焙	bui
+焱	jam
+鹈	ti
+湛	zam
+湛	cam
+湛	tam
+渫	thet
+渫	tiap
+湮	jin
+湮	jen
+湎	men
+湜	cit
+渭	vui
+湍	ton
+湍	con
+湫	ciu
+溲	thau
+湟	vong
+溆	ci
+溆	thi
+溆	cu
+湲	jen
+湔	zen
+湉	tiam
+渥	qok
+渥	vok
+渥	vo
+湄	mi
+湄	mui
+滁	cu
+愠	vun
+惺	thin
+愦	gui
+惴	cui
+惴	zui
+愀	ziu
+愎	bit
+愔	jim
+喾	kok
+喾	kuk
+寐	mi
+寐	mui
+谟	mu	
+扉	fui
+裢	len
+裎	cin
+裥	gan
+祾	lin
+祺	ki
+谠	dong
+幂	met
+幂	mit
+谡	suk
+谥	jit
+谧	mit
+遐	ha
+孱	can
+孱	zan
+弼	pet
+弼	pit
+巽	sun
+骘	cit
+媪	vun
+媛	jen
+婷	tin
+巯	ciu
+翚	gui
+皴	zun
+婺	vu
+婺	mu
+骛	mu
+骛	vu
+缂	gak
+缃	thiong
+缄	gam
+㜣	nem
+彘	ci
+彘	ce
+喫	ke
+缇	ti
+缈	miau
+缌	thu
+缑	geu
+缒	cui
+缒	dui
+缗	min
+缗	fun
+飨	song
+耢	lau
+瑚	fu
+瑁	mau
+瑜	ji
+瑗	jen
+瑄	sen
+瑕	ha
+遨	ngau
+遨	qau
+骜	ngau
+骜	qau
+韫	vun
+髡	kun
+塬	nzien
+塬	jen
+鄢	jen
+趔	let
+趑	cu
+趑	zu
+摅	lu
+摅	su
+摁	qen
+蜇	zet
+搋	cai
+搪	tong
+搐	cuk
+搛	liam
+搛	giam
+搠	thok
+摈	bin
+彀	geu
+毂	guk
+搦	nak
+搦	nit
+搡	thung
+搡	thong
+蓁	zin
+戡	kam
+蓍	si
+鄞	giun
+鄞	nziun
+靳	giun
+靳	gin
+蓐	juk
+蓐	nziuk
+蓦	mak
+鹋	miau	
+蒽	qen
+蓓	poi
+蓓	pui
+蓖	bi
+蓊	qang
+蓊	jung
+蒯	kai
+蓟	gi
+蓟	ge
+蓑	tho
+蓑	thoi
+蒿	gau	
+蒺	cit
+蓠	li
+蒟	gi
+蒡	pong
+蒹	giam
+蒴	thok
+蒗	long
+蓥	qang
+蓥	jin
+蓥	jang
+颐	ji
+楔	thiap
+楔	thet
+楠	nam
+楂	za
+楝	len
+楫	thip2
+楫	ziap1
+楫	zip1
+楸	ciu
+椴	ton
+槌	cui
+楯	dun
+皙	thit
+榈	li
+榈	lu
+槎	ca
+榉	gi
+楦	sen
+楣	mi
+楹	jin
+椽	jen
+椽	con
+裘	giu
+剽	piau
+甄	zin	
+酮	tung
+酰	then
+酯	zi
+酩	miang
+蜃	sin
+碛	zak
+碓	doi
+硼	pen
+碉	diau
+碚	pui
+碇	tin
+碇	dang
+碜	cam
+碜	cap
+鹌	qap1
+鹌	qam1
+辏	ceu
+龃	zu3
+龃	cia3
+龃	co3	
+龅	pau4
+龅	bau1
+訾	zi1
+訾	zu1
+粲	can4
+虞	ngu2
+虞	ji2
+虞	ngi2
+虞	nzi2
+睚	ngai2
+睚	nga2
+嗪	zin1
+嗪	sin1
+嗪	cin1
+韪	vui
+韪	qui
+嗷	ngau1
+嗷	qau1
+嗉	thio4
+睨	nzi1
+睢	hui
+睢	sui
+雎	zio1
+雎	cio1
+雎	zi1
+雎	ci1
+雎	cu1
+睥	pe4
+嘟	du1
+嗑	hap
+嗑	gap
+嗫	nziap2
+嗫	nziap1
+嗬	ho1
+嗔	cin1
+嗔	ten1
+嗝	gak1
+戥	cin4
+戥	din3
+嗄	qat
+嗄	sap
+嗄	ha1
+煦	si1
+煦	hi1
+暄	sen1
+遢	tap1
+暌	kui1
+跬	gui1
+跬	ka1
+跬	gai1
+跶	tat2
+跸	bit1
+跐	ci3
+跣	then1
+跹	cen1
+跻	zi3
+跻	ze3
+跻	ce2
+蛸	thau
+蜊	li4
+蜍	su2
+蜍	cu2
+蜉	feu2
+蜣	kong2
+蜣	kiong1
+畹	van3
+蛹	jung3
+嗣	thu4
+嗣	cu4
+嗯	nh3
+嗥	hau	
+嗲	dia3
+嗳	qoi3
+嗌	jit2
+嗌	qiak1
+嗍	sok2
+嗨	hai1
+嗐	hoi1
+嗐	hai3
+嗤	ce1
+嗵	tung1
+罨	jang3
+罨	jam3
+嵊	sin
+嵩	thung1
+嵩	cung1
+嵩	siung1
+嵩	sung1
+嵴	zit1
+骰	teu
+骰	thai3
+锗	zia
+锛	bun
+锜	ki
+锝	det
+锞	go
+锟	kun
+锢	gu
+锨	sun
+锩	gen
+锭	ten4
+锭	tin4
+锱	zi
+雉	cui2
+雉	ci2
+氲	jun1
+氲	vun1
+犏	pen
+歃	cap1
+稞	ko1
+稗	pai
+稗	pi
+稔	nzim1
+稔	nem1
+筠	giun
+筠	jun
+筢	pa
+筮	se
+筮	ci
+筲	thau1
+筲	thiau
+筱	thiau
+牒	tiap2
+牒	kiap2
+煲	bau1
+敫	giau3
+敫	git1
+徭	jau2
+愆	gen1
+愆	ken1
+艄	thiau1
+觎	ji4
+毹	ji
+貊	mak2
+貅	siu1
+貉	hok
+貉	mok
+颔	ham
+腠	ceu
+腩	nam
+腼	men
+腭	ngok2
+腧	ji
+塍	sun
+媵	jin
+媵	jang
+詹	zam
+鲅	bat
+鲆	pin
+鲇	nziam
+鲈	lu
+稣	su
+鲋	fu
+鲐	toi
+肄	ji
+肄	thi
+鹐	giam
+鹐	kiam
+飕	thiu
+飕	theu
+觥	gong
+遛	liu4	
+馐	thiu
+鹑	sun
+鹑	cun
+亶	dan
+瘃	diok
+痱	fui
+痼	gu
+痿	vui
+瘐	ji
+瘁	zut
+瘆	cam
+麂	gi
+裔	ji
+裔	je
+歆	him
+歆	sim
+旒	liu
+雍	jung
+雍	qung
+阖	hap
+阗	ten
+阙	ket
+羧	tho	
+豢	fan
+豢	van
+粳	gang
+猷	jiu
+煳	fu
+煜	juk
+煨	voi
+煅	ton
+煊	sen	
+煸	ben
+煸	pen
+煺	tui
+滟	jen
+溱	zin
+溘	hap
+溘	kap
+漭	mang
+漭	mong
+滢	jin
+溥	pu
+溧	lit
+溽	nziuk
+溽	juk
+裟	tha
+溻	tap
+溷	fun
+滗	bit
+滫	thiu
+滫	theu
+溴	ciu
+滏	pu3
+滃	qung1
+滃	vung1
+滦	lon2
+溏	tong2
+滂	pang1
+滂	pong1
+滓	za1
+溟	min2
+滪	ji4
+愫	tho4
+愫	thu4
+慑	sap1
+慊	kiam2
+慊	kiap1
+鲎	heu
+骞	kian4
+骞	kan4	80%
+窦	deu4
+窠	ko1
+窣	cut2
+裱	biau3
+褚	du3
+裨	bi3
+裨	be1
+裨	pi1
+裾	gi1
+裰	dot1
+禊	he4
+谩	man4
+谪	zak1
+媾	geu4
+嫫	mu1
+媲	pe4
+媲	pi4
+嫒	qoi4
+嫔	bin1
+媸	ci1
+缙	zin4
+缜	cin1
+缛	nziuk1
+辔	pui4
+辔	bi3
+骝	leu1
+缟	gau3
+缡	li2
+缢	jit2
+缣	giam1
+骟	sen1
+耥	tong4
+璈	ngau2
+璈	qau2
+瑶	jau2
+瑭	tong2
+獒	ngau2
+獒	qau2
+觏	geu4
+慝	nit2
+慝	tit2
+嫠	li2
+韬	tau1
+叆	qoi1
+髦	mau1
+摽	biau1
+摽	piau3
+墁	man4
+撂	liok2
+摞	lo1
+撄	jin1
+翥	zu3
+踅	ce4
+踅	cet1
+摭	zak1
+摭	zat1
+墉	jung1
+墒	song1
+榖	guk1
+綦	ki2
+蔫	jen1
+蔷	thit1
+蔷	thet1
+蔷	ciong2
+蔷	ciang2
+蔷	thiong2
+靺	mat1
+靼	dan4
+鞅	jong1
+靿	jau
+甍	men2
+甍	mang2
+蔸	deu1
+蔟	cuk2
+蔺	lin4
+戬	zen3
+蕖	ki2
+蔻	keu4
+蓿	thuk1
+斡	qat1
+斡	gon3
+鹕	fu2
+蓼	liau2
+蓼	luk2
+榛	zin2
+榛	cin2
+榧	fui1
+榻	tap2
+榫	thun3
+榭	cia4
+槔	gau
+榱	thoi1
+槁	gau3
+槟	bin1
+槠	zu
+榷	kok1
+僰	pet
+僰	bo
+酽	nziam2
+酶	moi2
+酹	 loi4
+酹	 lui4
+酹	 lot1
+酹	 lai4
+厮	thu1
+碡	tuk2
+碴	za1
+碣	get1
+碲	di4
+磋	co1
+臧	zong1
+豨	si
+殡	bin1
+霆	tin2
+霁	ze4
+霁	zi4
+霁	ce2
+辕	jen2
+蜚	fui1
+蜚	bui1
+裴	fui3
+翡	fui3
+龇	cai1
+龇	cu1
+龇	ce1
+龈	nziun2
+睿	jui4
+䁖	leu1
+睽	kui2
+嘞	let1
+嘞	le4
+嘈	cau2
+嘌	piau3
+嘁	cit1
+嘁	ci4
+嘎	gat1
+嘎	kat1
+嘎	ga3
+暧	qoi4
+暝	min2
+暝	men2
+踌	diu2
+踌	ciu2
+踉	long3
+踉	liong2
+蜞	ki2
+蜥	thit1
+蜮	vet1
+蝈	gok1
+蝈	get1
+蜴	jit2
+蜱	bi1
+蜩	tiau2
+蜩	diu1
+蜷	ken3
+蜿	van3
+螂	long2
+蜢	mang3
+嘘	si1
+嘘	hi1
+嘡	diong1
+嘡	dong1
+噹	dang1
+鹗	ngok2
+嘣	bung3
+嘣	bang3
+嘤	jin1
+嘚	det1
+嗾	theu4
+嗾	cuk2
+嘧	mit2
+罴	pi
+罱	lam3
+幔	man4
+嶂	zong1
+幛	zong1
+赙	fu4
+罂	qang1
+骷	gu3
+骶	di3
+鹘	gut1
+锲	ket1
+锲	ke4
+锲(异读kak2)	kak2
+锴	kai3
+锶	thu1
+锷	ngak2
+锷	ngok2
+锸	cap1
+锵	ziong1
+锵	ciang1
+镁	mui1
+镂	leu3
+犒	gau3
+犒	kau4
+箐	ziang1
+箐	zin1
+箦	zak1
+箦	ciak1
+箧	kap1
+箍	ku1
+箍	keu1
+箸	zu3
+箸	cu4
+箬	nziok2
+箬	jok2
+箅	bi
+箪	dan1
+箔	pok
+箔	pak1
+箜	kung1
+箢	von3
+箓	luk2
+毓	juk1
+僖	si3
+儆	gin4
+儆	kiang4
+僳	thuk1
+僭	ziam4
+僭	zem4
+劁	ziau1
+僮	tung2
+魃	pat1
+魆	sut1
+睾	gau1
+睾	cak1
+艋	mang3
+鄱	po2
+膈	gak1
+膑	bin1
+鲑	gui1
+鲔	jiu2
+鲚	ce2
+鲛	gau1
+鲟	cim2
+獐	zong1
+觫	thuk1
+雒	lok2
+夤	jin2
+馑	kiun3
+馑	gin3
+銮	lon2
+塾	suk
+麽	mo
+瘌	lat1
+瘊	heu2
+瘘	leu2
+瘙	thau1
+廖	liau4
+韶	sau2
+旖	ji3
+膂	li3
+阚	gam3
+鄯	sen1
+鄯	san4
+鲞	thiang3
+粿	ko1
+粼	lin2
+粽	zung4
+糁	tham1
+槊	thok1
+鹚	zu1
+鹚	cu1
+熘	liu2
+熥	tung1
+潢	vong2
+漕	cau2
+滹	fu1
+漯	lui1
+漶	von4
+潋	liam3
+潴	zu1
+漪	ji3
+漉	luk2
+漳	zong1
+漩	sen2
+澉	gam3
+潍	vui2
+慵	jung1
+搴	ken1
+窨	jim1
+寤	ngu4
+寤	mu4
+寤	ngh2
+綮	ki3
+谮	zim1
+褡	dap1
+褙	boi4
+褓	bau3
+褛	lu3
+褛	leu3
+褛	li3
+褊	ben1
+谯	ciau2
+谰	lan2
+谲	get
+暨	gi4
+屣	thai3
+屣	thi1
+鹛	mi2	
+嫣	jen1
+嫱	ciong2
+嫱	thiong2
+嫖	piau1
+嫦	song2
+嫚	man4
+嫘	lui1
+嫡	dit1
+鼐	nai4
+翟	tit2
+翟	cak2
+翟	cet2
+瞀	meu4
+鹜	mu4
+鹜	vu4
+骠	piau
+骠	biau1
+缥	piau1
+缦	man4
+缧	lui3
+缨	jin1
+骢	cung1	
+缪	liau2
+缫	thau1
+耦	ngeu3
+耦	ngau3
+耦	qeu3
+耧	leu3
+瑾	kiun3
+瑾	giun3
+瑾	gin3
+璜	vong2
+璀	cui1
+璎	jin1
+璁	cung1
+璋	zong1
+璇	sen2
+奭	sit1
+奭	sak1
+髯	nziam3
+髯	jam3
+髫	tiau2
+脁	tiau
+髫	diau
+撷	ket1
+撷	het1
+撅	ket1
+赭	za3
+撸	lu1
+鋆	giun1
+撙	zun1
+撺	con4
+墀	ci
+聩	ngai4
+聩	gui4
+觐	gin4
+觐	giun4
+鞑	tat
+蕙	jui
+蕙	fui
+鞒	kiau
+蕈	cim
+蕨	ket
+蕤	jui1
+蕤	nziui1
+蕞	zui4
+蕺	zip1
+蕺	sip1
+瞢	mung
+蕃	pan1
+蕃	fan1
+蕲	ki
+赜	zak
+赜	cak
+槿	giun3
+槿	kiun3
+槿	gin3
+樯	ciong2
+樯	thiong2
+槭	cit1
+樗	hu1
+樗	su1
+樗	cu1
+樘	tong2
+樘	dang2
+樘	cang2
+樊	fan2
+樊	pan2
+槲	fuk1
+醌	kun1
+醅	poi2
+醅	pui2
+靥	jap2
+靥	jam3
+魇	jam3
+餍	jam4
+磔	zak2
+磙	gun3
+霈	pai
+霈	pui
+辘	luk2
+龉	ngh2
+龉	ngu2
+龊	cok1
+觑	thio4
+觑	cu4
+觑	ci4
+㞘(duk6,坨)	duk2
+瞌	kap
+瞌	hap
+瞋	zin1
+瞋	cin1
+瞑	men2
+瞑	min2
+嘭	bung3
+嘭	pung3
+噎	jit1
+噎	qet1
+噶	got1
+噶	ga3
+颙	ngiung2
+颙	nziung2
+颙	jung2
+暹	thiam2
+噘	ket1
+踔	zok1
+踔	dok1
+踔	diau4
+踝	ka2
+踝	fai2
+踟	ci2
+踟	di1
+踒	voi3
+踒	vo1
+踒	vai3
+踒	qo1
+踬	zit1
+踬	zi4
+踮	diam1
+踯	cit1
+踯	cak1
+踺	ken4
+踞	gio1
+踞	gi1
+蝽	cun1
+蝾	jung2
+蝻	nam2
+蝰	kui2
+蝮	fuk2
+蝮	buk2
+螋	theu1
+蝓	ji2
+蝣	jiu2
+蝼	leu2
+噗	puk1
+噗	pok1
+噗	buk1
+嘬	zot1
+嘬	cui4
+颚	ngok2
+噍	ziau4
+噢	qo1
+噙	kim2
+噜	lu1
+噌	cen1
+噔	den1
+噔	dang1
+颛	zon1	
+幞	puk1
+幡	fan1
+幡	pan1
+嶙	lin2
+嶝	den1
+骺	heu4
+骼	gok1
+骼	gak1
+骸	hoi2
+骸	hai2
+镊	nziap2
+镊	niap2
+镉	gak1
+镌	zon1
+镍	net1
+镏	liu2
+镒	jit1
+镓	ga1
+镔	bin1
+稷	zit1
+箴	gam3
+箴	zim1
+篑	kui
+篁	vong2
+篁	fong2
+篌	heu2
+篆	zon3
+篆	con3
+牖	jiu1
+儋	dam1
+儋	zam1
+徵	din1
+徵	zin1
+徵	zi1
+徵	di1
+磐	pan2
+虢	gak
+虢	ngut
+鹞	jau
+膘	piau4
+膘	biau1
+滕	ten2
+滕	tin2
+鲠	gang1
+鲡	li4
+鲢	le2n
+鲣	gen1
+鲥	si2
+鲧	gun3
+鲩	van2
+鲩	fun2
+獗	ket1
+獗	get1
+獠	liau2
+觯	zi
+馓	than
+馔	zon4
+馔	pan
+麾	fui1
+廛	cen2
+瘛	ce
+瘛	cet
+瘼	mok
+瘢	ban
+瘠	zit1
+齑	ze1
+齑	zi1
+羯	get1
+羰	tong1
+羰	tang1
+𥻗	za1
+遴	lin1
+糌	zan1
+糍	zi1
+糍	zu1
+糅	jiu
+糅	nziu
+熜	cung
+熜	tung
+熵	song1
+熠	jip2
+澍	su
+澌	thu
+潸	than1
+潦	liau2
+潦	lau2
+潲	thau4
+鋈	vok1
+潟	thit
+潼	tung
+潺	can2
+潺	zan2
+憬	gin3
+憧	cung1
+憧	tung2
+憧	diong1
+寮	liau2
+窳	jiu
+窳	ji
+谳	nget1
+谳	jen2
+褴	lam2
+褟	dap1
+褫	ti4
+褫	ci4
+谵	zam
+熨	qut
+熨	jun4
+屦	gu
+屦	lu
+嬉	si1
+嬉	hi1
+勰	hap
+勰	sap
+戮	luk2
+蝥	mau2
+缬	het1
+缬	ket1
+缮	sen4
+缯	zen1
+骣	can2
+畿	gi1
+耩	geu
+耨	neu
+耪	pong
+璞	pok
+璟	gin
+靛	ten4
+璠	fan
+璘	lin
+聱	ngau2
+螯	ngau2
+髻	gi4
+髭	zi
+髹	siu
+髹	thiu
+擀	gon3
+熹	si3
+甏	pang
+擞	theu3
+縠	guk1
+磬	kin1
+颞	nziap
+蕻	fung
+蕻	giung
+鞘	ciau
+鞘	thiau
+颟	man
+薤	hai
+薤	he
+薨	hung1
+檠	kin
+檠	kiang
+薏	ji
+薮	theu
+薜	pit
+薅	hau
+薅	gau
+樾	jet
+橛	ket
+橇	kiau
+樵	ziau
+檎	kim
+橹	lu
+樽	zun
+樨	thi
+橼	jen
+墼	git
+橐	tok1
+翮	gak
+醛	con
+醐	fu2
+醍	ti2
+醚	mi
+醚	mui
+磲	ki
+赝	ngen4
+赝	ngan4
+赝	jen4
+飙	biau1
+殪	je
+殪	ji
+霖	lim2
+霏	fui1
+霓	nzi1
+霓	ni1
+霓	ji2
+錾	zam3
+錾	cam3
+辚	lin
+臻	zin2
+遽	gi
+氅	cong
+瞟	piau
+瞠	cang2
+瞠	cin2
+瞠	tong2
+瞰	kam1
+嚄	vok1
+嚄	hok1
+嚄	qok1
+嚆	hau	
+噤	gim
+暾	dun
+蹀	tiap2
+蹀	diap2
+踹	ton4
+踹	don1
+踹	coi4
+踹	cai4
+踵	zung1
+踽	gi
+踽	ki
+蹉	co1
+蹁	pen
+螨	man
+蟒	mang3
+螈	nzien2
+螅	thit
+螭	li
+螠	jit
+螟	min
+噱	giok1
+噱	kiak1
+噱	giak1
+噬	se4
+噬	si4
+噫	ji4
+噻	thai4
+噼	pit2
+噼	bit2
+罹	li2
+圜	ven2
+圜	jen2
+䦃	ziok1
+镖	biau1
+镗	dang1
+镗	tong2
+镗	tang2
+镘	man4
+镚	ben1
+镛	jung
+镝	dit
+镞	zuk
+镠	liu
+氇	lo
+氇	lu
+氆	pu
+憩	ke
+穑	thet
+穑	thit
+篝	geu1
+篥	lit
+篦	bin
+篦	bi4
+篦	pi4
+篪	ci
+篙	gau1
+盥	gon
+劓	ngi
+劓	nzi
+翱	ngau2
+翱	qau2
+魉	liong3
+魈	thiau1
+徼	giau3
+歙	hap
+膳	sen4
+膦	lin3
+膙	giong
+鲮	lin
+鲱	fui
+鲲	kun
+鲳	cong
+鲴	gu
+鲵	nge
+鲷	diau
+鲷	diu
+鲻	zi
+獴	mung
+獭	tat1
+獭	cat1
+獬	hai3
+邂	hai3
+邂	gai3
+鹧	za4
+廨	gai3
+赟	jin
+赟	jun
+瘰	lo
+廪	lim
+瘿	jin
+瘵	zai
+瘴	zong
+癃	lung
+瘳	liau
+瘳	ciu
+斓	lan
+麇	giun
+麇	kun
+麈	cin
+嬴	jang2
+壅	qung1
+羲	si
+羲	ji
+糗	ciu3
+瞥	pet1	
+甑	zen1
+燎	liau 
+燠	qau
+燠	juk
+燔	pan
+燔	fan
+燔	fun
+燧	cui4
+燧	sui4
+濑	lai4
+濉	thui
+潞	lu4
+澧	li2
+澹	tam1
+澹	dam1
+澥	hai3
+澶	sen
+澶	zen
+澶	tan
+濂	liam3
+褰	ken1
+寰	ven2
+寰	van2
+寰	fan2
+窸	thit1
+褶	zap1
+褶	tiap1
+褶	sip1
+褶	thip1
+禧	si3
+嬖	pit
+犟	giong3
+犟	giang3
+隰	sip
+嬗	san
+颡	thong
+缱	ken
+缲	zau
+缳	van
+缳	ven
+璨	can
+璩	ki
+璐	lu
+璪	zau
+璪	cau
+螫	zit
+螫	cit
+螫	diau
+擤	then
+壕	hau
+觳	fuk
+觳	guk
+罄	kin
+擢	cok
+薹	toi
+鞡	la
+鞬	gen
+薷	nzio
+薷	nzu
+薷	nzi
+薷	ji
+薰	sun
+藓	then
+藁	gau
+檄	git
+檩	lin
+懋	meu
+懋	mau
+醢	hoi
+醢	hai
+翳	je
+翳	ji
+礅	dun
+磴	den
+鹩	liau
+龋	ki
+龋	gi
+龋	ku
+龌	qok
+龌	vuk
+龌	vo
+豳	bin
+壑	hok
+壑	kok
+黻	fut
+嚏	ti
+嚅	no
+嚅	nzu
+嚅	nzio
+嚅	ji
+蹑	niap
+蹑	nziap
+蹒	pan
+蹊	kai
+蟥	vong
+螬	cau
+螵	piau
+疃	ton
+螳	tong
+蟑	zong
+嚓	cat
+羁 	gi
+罽	gi
+罾	zen
+嶷	nzi
+黜	cut
+黝	jiu
+髁	ko
+髀	bi
+镡	cim
+镢	giok
+镢	gok
+镢	kok
+镣	liau
+镦	dui
+镦	dun
+镧	lan
+镩	con
+镪	kiong
+镫	den
+罅	la	89%
+黏	nziam
+黏	nem
+黏	ziam
+簌	thuk
+簌	suk
+篾	met
+篼	deu
+簖	ton
+簋	kui
+鼢	fun
+黛	toi
+黛	dai
+儡	lui1
+鹪	ziau
+鼾	hon
+皤	po
+魍	mong
+龠	jok
+繇	jau
+貘	mak
+邈	miau
+邈	meu
+貔	pi
+臌	gu
+膻	tan
+臆	ji
+臃	jung
+鲼	fun
+鲽	tiap
+鳀	te
+鳀	tai
+鳃	thai
+鳅	ciu
+鳇	vong
+鳊	ben
+螽	zung
+燮	set
+燮	thiap
+鹫	ziu
+襄	thiong
+糜	mi2
+縻	mi
+膺	jin
+癍	ban
+麋	mi
+懑	man
+濡	nziu
+濡	nzio
+濡	nzi
+濡	lu
+濡	ji
+濮	puk
+濞	pi
+濠	hau
+濯	cok
+蹇	gen
+蹇	gan
+謇	gan
+謇	gen
+邃	thui
+襁	kiong
+檗	bak
+檗	pit
+擘	pit
+擘	piak
+孺	nzu
+孺	nzio
+孺	nzi
+孺	ji
+隳	fui
+嬷	mo
+蟊	mau
+鹬	jut
+鹬	ji
+鍪	meu
+鏊	ngau
+鳌	ngau
+鳌	qau
+鬈	gen
+鬃	zung
+瞽	gu
+鞯	zen
+鞨	hot
+鞫	kiuk
+鞧	ciu
+鞣	nziu
+鞣	jiu
+藜	lai
+藜	li
+藠	kiau
+藠	giau
+藩	pan
+藩	fan
+醪	lau
+蹙	cuk
+礓	giong
+燹	then
+餮	tet
+瞿	ki2
+瞿	ci2
+曛	sun
+颢	hau
+曜	jau
+躇	cu
+躇	du
+蹚	tong
+鹭	lu
+蟛	pung
+蟪	fui
+蟠	fan
+蟠	pan
+蟮	sen
+鹮	jen
+鹮	van
+黠	get
+黠	git
+黟	ji
+髅	leu
+髂	ka
+镬	vok
+镭	lui
+镯	zok
+镯	zuk
+馥	fuk
+簟	diam
+簟	tiam
+簪	zim
+簪	zam
+鼬	jiu
+雠	siu
+艟	tung
+艟	cung
+鳎	tap
+鳏	gon
+鳏	gan
+鳐	jau
+癞	lai
+癔	ji
+癜	den
+癖	pit
+癖	pi
+糨	giong
+糨	ziong
+蹩	pet
+鎏	liu
+懵	mung
+彝	ji
+邋	lap
+鬏	ciu
+攉	hok
+攒	zan
+鞲	geu
+鞴	pi
+藿	hok
+蘧	ki
+蘅	vang
+蘅	hang
+麓	luk
+醮	ziau
+醯	si
+酃	lin
+霪	jin
+霭	qoi
+霨	vui
+黼	pu
+嚯	hok
+嚯	ho
+蹰	cu
+蹶	ket
+蹶	kui
+蹽	liau	
+蹼	buk
+蹼	puk
+蹴	cuk
+蹴	cok
+蹾	dun
+蹿	con
+蠖	vok
+蠓	mung
+蟾	cam
+蠊	liam
+黢	cut
+髋	kon
+髌	bin
+镲	cat
+籀	ciu
+籀	ziu
+籁	lai
+齁	heu
+齁	ku
+魑	li
+魑	ci
+艨	mung
+鳓	let
+鳔	piau
+鳕	thet
+鳗	man
+鳙	jung
+麒	ki
+鏖	qau
+鏖	piau
+羸	lui
+㸆	kau
+瀚	hon
+瀚	han
+瀣	hai
+瀛	jin
+襦	nzu
+襦	nzio
+襦	nzi
+襦	ji
+谶	cim
+襞	piak
+骥	ki
+骥	gi
+缵	zan
+攘	nziong
+攘	jong
+蘩	fan
+蘖	nziet
+蘖	nget
+醴	li
+霰	than
+酆	fung
+矍	giok
+矍	kiok
+曦	si
+曦	hi
+躅	cuk
+鼍	to
+巉	cam
+黩	tuk
+黥	gin
+黥	giang
+黪	cam
+镳	biau
+镴	lap
+黧	li
+纂	con
+璺	mun
+鼯	ngu
+鼯	ngh
+臜	zan
+鳜	ket
+鳝	sen
+鳟	zun
+獾	gon
+孀	thong
+骧	thiong
+瓘	gon
+鼙	bi
+鼙	pi
+醺	sun
+礴	bok
+颦	pin
+曩	nong
+鳢	li
+癫	den
+麝	sa
+夔	kui
+爝	ziok
+灏	hau
+禳	jong
+禳	nziong
+禳	jong
+鐾	bi
+羼	can
+蠡	li
+耱	mo
+懿	ji
+蘸	ziam
+鹳	gon
+霾	mai
+氍	ki
+饕	tau
+躐	liap
+髑	tuk
+镵	ciam
+穰	jong
+穰	nziong
+饔	jung
+饔	qung
+鬻	cuk
+鬻	zuk
+鬟	van
+趱	zan
+攫	giok
+攫	giok
+攥	zap
+颧	gon
+躜	zan
+鼹	qen
+鼹	jen
+癯	ki
+癯	ku
+麟	lin
+蠲	gen
+蠹	du
+蠹	zu
+躞	sap
+衢	ki
+鑫	sim
+鑫	thim
+灞	ba
+襻	pan
+纛	tuk
+纛	tau
+鬣	liap
+攮	nong
+囔	nang
+囔	nziong
+馕	nong
+戆	qung	
+戆	ngong
+戆	gung
+爨	con
+齉	nung
+齉	nong
+尢	jiu
+尢	qong
+卬	ngong
+卬	ngang
+殳	su
+𠙶	qeu
+毌	gon
+邘	ji
+戋	zen
+圢	tang
+圢	tin
+氕	pet
+伋	kip
+仝	tung
+冮	gang
+氿	gui
+氿	giu
+汈	diau
+氾	fan
+忉	dau
+宄	gui
+𬣙	
+讱
+扞
+圲
+圫
+芏
+芃
+朳
+朸
+𨙸
+邨
+吒	za1
+吖	qa
+屼	ngut
+屾
+辿
+钆
+仳
+伣
+伈
+癿
+甪
+邠
+犴
+冱
+邡
+闫
+𬇕
+汋
+䜣
+讻
+𬣞
+孖
+𬘓
+纩
+玒
+玓
+玘
+玚
+刬
+𫭟
+坜	lak
+坉	tun
+扽	
+𫭢
+坋
+扺
+㧑
+毐
+芰
+芣
+苊
+苉
+芘
+芴
+芠
+𫇭
+芤
+杕
+杙
+杄
+杧
+杩
+尪	qang
+尨
+轪
+𫐄
+坒
+芈	mi
+芈	me
+旴
+旵
+呙
+㕮
+岍
+𫵷
+岠
+岜
+呇
+冏
+觃
+岙
+伾
+㑇
+伭
+佖
+伲
+佁
+飏
+狃
+闶
+汧
+汫
+𣲘
+𣲗
+沄
+沘
+𬇙
+汭
+㳇
+沇
+忮
+忳
+忺
+𬣡
+祃
+诇
+邲
+诎
+诐
+屃
+𫸩
+岊
+阽
+䢺
+阼
+妧
+妘
+𨚕
+纮
+驲
+𫘜
+纻
+𬘘
+𫘝
+纼
+玤
+玞
+徥	ti
+玱
+玟
+邽
+邿
+坥
+坰
+坬
+坽
+弆
+耵
+䢼
+𦭜
+茋
+苧
+苾
+苠
+枅
+㭎
+枘
+枍
+矼
+矻
+匼
+𬨂
+𬀩
+𬀪
+旿
+昇
+昄
+昒
+昈
+咉
+咇
+咍
+岵
+岽
+岨
+岞
+峂
+㟃
+囷
+𬬩
+钐
+钔
+钖
+牥
+佴
+垈
+侁
+侹
+佸
+佺
+隹
+㑊
+侂
+佽
+侘
+郈
+舠
+郐
+郃
+攽
+肭
+肸
+肷
+狉
+狝
+饳
+忞
+於
+炌
+炆
+泙
+沺
+泂	gen
+泂	giung
+泂	giang
+泜
+泃
+泇
+怊
+峃
+穸
+祋
+祊
+𫍣
+𬣳
+𬩽
+鸤
+弢
+弨
+陑
+𬮿
+陎
+𬯀
+卺
+乸
+妭
+姈
+𫰛
+迳
+叕
+𬳵
+驵
+𬳶
+䌹
+驺
+𫠊
+绋
+绐
+砉
+耔
+㛃
+玶
+珇
+珅
+𬍛
+珋
+玹
+珌
+玿
+韨
+垚
+垯
+垙
+垲
+埏
+垍
+耇
+鿍
+垎
+垴
+垟
+垞
+挓
+垵
+垏
+拶
+荖
+荁
+荙
+荛
+茈
+茽
+荄
+茺
+𬜬
+荓
+茳
+𦰡
+茛
+荭
+㭕
+柷
+柃
+柊
+枹
+栐
+柖
+郚
+剅
+䴓
+迺
+厖
+砆
+砑
+砄
+耏
+奓
+䶮
+轵
+轷
+轹
+轺
+昺
+𪾢
+昽
+盷
+咡
+咺
+昳
+昣
+哒	da
+哒	tat
+昤
+昫
+昡
+咥
+昪
+虷
+虸
+哃
+峘
+耑
+峛
+𪨰
+峗
+峧
+帡
+钘
+𫓧
+钜
+𬬮
+𬬱
+𬬭
+钪
+钬
+钭
+矧
+秬
+俫
+舁
+俜
+俙
+俍
+垕
+衎
+舣
+弇
+侴
+鸧
+䏡
+胠
+𦙶
+胈	pat
+胩
+胣
+朏
+飐
+訄
+饻
+庤
+疢
+炣
+炟
+㶲
+洭
+洘
+洓
+洿
+㳚
+泚
+浈
+浉
+洸
+洑
+洢
+洈
+洚
+洺
+洨
+浐
+㳘
+洴
+洣
+恔
+宬
+窀
+扂
+袆
+祏
+祐
+祕
+叚
+陧
+陞
+娀
+姞
+姱
+姤
+姶
+姽
+枲
+绖
+骃
+𬘡
+𬳽
+𬘩
+𫄧
+彖
+骉
+恝
+珪
+珛
+珹
+琊
+玼
+珖
+𪟝
+珽
+珦
+珫
+珒
+𬍤
+珢
+珕
+珝
+𫭼
+埗
+垾
+垺
+埆
+垿
+埌
+埇
+莰
+茝
+𬜯
+鄀
+莶
+莝
+䓖
+莙
+栻
+桠
+𬂩
+桄
+梠
+栴
+梴
+栒
+酎
+酏
+𫠆
+砵
+砠
+砫
+砬
+硁
+恧
+翃
+郪
+𨐈
+辀
+辁
+𬌗
+剕
+赀
+哢
+晅
+晊
+唝
+哳
+哱
+冔
+晔
+晐
+晖
+畖
+蚄
+蚆
+𫑡
+帱
+崁
+峿
+𪨶
+崄
+帨
+崀
+赆
+𬬸
+钷
+𬬻
+𬬹
+𬬿
+𬭁
+眚
+甡
+笫
+倻
+倴
+脩
+倮
+倕
+倞
+𫢸
+倓
+倧
+衃
+虒
+舭
+舯
+舥
+瓞
+鬯
+鸰
+脎
+朓
+胲	hoi
+虓
+鱽
+狴	bi
+峱	nau
+狻
+眢
+𫗧
+勍
+痄
+疰
+痃
+竘
+羖
+羓
+桊
+敉
+烠
+烔
+烶
+烻
+𬊈
+涍
+浡
+浭
+浬
+涄
+涢
+涐
+浰
+浟
+浛
+浼
+浲
+涘
+悈
+悃
+悢
+𬒈
+宧
+窅
+窊
+窎
+扅
+扆
+袪
+袗
+袯
+祧	tiau
+隺
+堲
+疍
+𨺙
+陴
+烝
+砮
+㛚
+哿
+翀
+翂
+剟
+𬳿
+𫄨
+绤
+骍
+𬘫
+䂮
+琎
+珸
+珵	tang
+琄
+琈
+琀
+珺
+掭
+堎
+堐
+埼
+掎
+埫
+堌
+晢
+𫮃
+掞
+埪
+壸
+㙍
+聍
+菝
+萚
+菥
+莿
+䓫
+勚
+䓬
+萆
+菂
+菍
+菼
+萣
+䓨
+菉
+䓛
+梼
+梽
+桲
+梾
+桯
+梣
+梌
+桹
+敔
+厣
+硔
+鿎
+硙
+硚
+硊
+硍
+勔
+䴕
+龁
+逴
+唪
+啫
+翈
+㫰
+晙
+畤
+𬱖
+趼
+跂
+蛃
+蚲
+𬟽
+蚺
+啴
+䎃
+崧
+崟
+崞
+崒
+崌
+崡
+铏
+𫓯
+𫟹
+铕
+𫟼
+铖
+铘
+铚
+铞
+铥
+铴
+牻
+牿
+稆
+笱
+笯
+偰
+偡
+鸺
+偭
+偲
+偁
+㿠
+鄅
+偓
+徛
+衒
+舳
+舲
+鸼
+悆
+鄃
+瓻
+䝙
+脶
+脞
+脟
+䏲
+鱾
+猇
+猊
+猄
+觖
+𠅤
+庱
+庼
+庳
+痓
+䴔
+竫
+堃
+阌
+羝
+羕
+焆
+烺
+焌
+淏
+𬇹
+淟
+淜
+淴
+淯
+湴
+涴
+𬍡
+㥄
+惛
+惔
+悰
+惙
+寁
+逭
+𬤇
+𫍯
+袼
+裈
+祲
+𬤊
+𫍲
+谞
+艴
+弸
+弶
+𬯎
+隃
+婞
+娵
+婼
+媖
+婳
+婍
+婌
+婫
+婤
+婘
+婠
+𬘬
+𬘭
+𬴂
+𫘦
+绹
+𫟅
+𬘯
+骕
+𫘧
+絜
+珷
+琲
+琡
+琟
+琔
+琭
+堾
+堼
+揕
+㙘
+堧
+喆
+堨
+塅
+堠
+絷
+𪣻
+𡎚
+葜
+惎
+萳
+葙
+靬
+葴
+蒇
+蒈
+鄚
+蒉
+蓇
+萩
+蒐
+葰
+葎
+鄑
+蒎
+葖
+蒄	gon
+萹
+棤
+棽
+棫
+椓
+椑
+𬃊
+鹀
+椆
+棓
+棬
+棪
+椀
+楗
+𬷕
+甦
+酦
+觌
+奡
+皕
+硪
+欹
+詟
+𫐐
+辌
+棐
+龂
+𬹼
+黹
+牚
+睎
+晫
+晪
+晱
+𧿹
+蛑
+畯
+斝	ga
+喤
+崶
+嵁
+𫶇
+崾
+嵅
+崿
+嵚
+翙
+𫖮
+圌
+圐
+赑
+淼	miau
+赒
+鿏
+铹
+𬭊
+铽
+𨱇
+𫓶
+锊
+锍
+锎
+𬭎
+锓
+犇
+颋
+稌
+筀
+筘
+筜
+筥
+筅
+傃
+傉
+翛
+傒
+傕
+舾
+畬	sa
+𫖯
+脿
+腘
+䐃	kin
+腙
+腒
+𬱟
+鲃
+猰
+𫛭
+猯
+㺄
+馉
+凓
+鄗
+𫷷
+廋
+廆
+鄌
+粢
+遆
+旐
+𬮱
+焞
+𬊤
+欻
+𣸣
+溚	dap
+酘	diu
+溁
+湝
+渰
+湓
+㴔
+渟
+溠
+渼
+溇
+湣
+湑
+溞
+愐
+愃
+敩
+甯
+棨
+扊
+裣
+祼	gon
+婻
+媆
+媞
+㛹
+媓
+媂
+媄
+毵
+矞
+𬴃
+𫘨
+缊
+缐
+骙
+瑃
+瑓
+瑅
+瑆
+䴖
+瑖
+瑝
+瑔
+瑀
+𤧛
+瑳
+瑂
+嶅
+瑑
+遘
+髢
+塥
+堽
+赪
+摛
+塝
+搒
+搌
+蒱
+蒨
+蓏
+蔀
+蓢
+蓂
+蒻
+蓣
+椹
+楪
+榃
+榅
+楒
+楞
+楩
+榇
+椸
+楙
+歅
+𬪩
+碃
+碏
+𬒔
+碈
+䃅
+硿
+鄠
+辒
+𬨎
+𫐓
+龆
+觜
+䣘
+暕
+鹍
+𫫇
+㬊
+暅
+跱
+蜐
+蜎
+嵲
+赗
+骱
+锖
+𫓹
+锘
+锳
+锧
+锪
+𬭚
+锫
+锬
+𬭛
+稑
+稙
+䅟
+𬕂
+筻
+筼
+筶
+筦	gon
+筤
+傺
+鹎
+僇
+艅
+艉
+谼
+貆
+腽
+腨
+腯
+鲉
+鲊
+鲌
+䲟
+𬶋
+𬶍
+鲏
+雊
+猺
+飔
+觟
+𦝼
+䏢	be
+䏟	bet
+膎	hai
+朘	zoi
+腬	neu	
+𤌴	ket
+馌
+裛
+廒
+瘀
+瘅
+鄘
+鹒
+鄜
+麀
+鄣
+阘
+𫔶
+煁
+煃
+煴
+煋
+煟
+煓
+滠
+溍
+溹
+滆
+滉
+溦
+溵
+漷
+滧
+滘
+滍
+愭
+慥	cau
+慆
+彊	kiong
+塱
+𫌀
+裼
+禋
+禔
+禘
+禒
+谫
+鹔
+𫖳
+愍
+嫄
+媱
+戤
+勠	luk
+戣
+𫘪
+𫘬
+缞
+耤
+瑧
+𫞩
+瑨
+瑱
+瑷
+瑢
+斠
+摏
+墕
+墈
+墐
+墘
+摴
+銎
+𡐓
+墚
+撖
+𪤗
+靽
+鞁
+蔌
+蔈
+蓰
+蔹
+蔊
+嘏
+榰
+榑
+槚
+𣗋
+槜
+榍
+疐
+𬸘
+酺
+酾	thi
+酲
+酴
+碶
+䃎
+𬒗
+碨	voi
+𥔲
+碹
+碥
+劂
+𫚖
+䴗
+夥
+瞍
+鹖
+㬎
+跽
+蜾
+幖
+嶍
+圙
+𨱏
+锺
+锼
+锽
+𬭤
+锾
+锿
+镃
+镄
+镅
+馝
+鹙
+箨
+箖
+劄
+僬
+僦
+僔
+僎
+槃
+㙦
+鲒
+鲕
+𫚕
+鲖
+鲗
+鲘
+鲙
+𬶐
+𬶏
+𩽾
+夐
+獍
+飗
+𬸚
+凘
+廑
+廙
+瘗
+瘥
+瘕
+鲝
+鄫
+熇
+漹
+漖
+潆
+漤
+潩
+漼
+漴
+㽏
+漈
+漋
+漻
+慬
+窬
+窭
+㮾
+𬤝
+褕
+禛
+禚
+隩
+嫕
+嫭
+嫜
+嫪
+𬙂
+㻬
+麹	kiuk
+璆
+漦	li
+叇	tai
+叇	toi
+墣
+墦
+墡
+劐
+薁
+蕰
+蔃
+鼒
+槱
+鹝
+磏
+磉
+殣
+慭
+霅
+暵
+暲
+暶
+踦
+踣
+䗖
+蝘
+蝲
+蝤
+噇
+噂
+噀
+罶
+嶲
+嶓
+㠇
+嶟
+嶒
+镆
+镈
+镋
+镎
+𬭩
+镕
+稹
+儇
+皞
+皛
+䴘
+艎
+艏
+鹟
+𩾃
+鲦
+鲪
+鲬
+橥
+觭
+鹠
+鹡
+糇
+糈
+翦
+鹢
+鹣
+熛
+潖
+潵
+㵐
+澂
+澛
+瑬
+潽
+潾
+潏
+憭
+憕
+𬸣
+戭
+褯
+禤
+𫍽
+嫽
+遹
+𬴊
+璥
+璲
+璒
+憙
+擐
+鄹
+薳
+鞔
+黇
+𬞟	pin
+蕗	lu
+薢
+蕹
+橞
+橑	liau
+橦
+醑
+觱
+磡
+𥕢
+磜
+豮
+𫟦
+𬺈
+𫠜
+鹾
+虤
+暿
+曌
+曈
+㬚
+蹅
+踶
+䗛
+螗
+疁
+㠓
+幪
+𪩘
+嶦
+𬭬
+𨱑
+𬭯
+馞
+穄
+篚
+篯
+簉
+鼽
+衠
+盦	qem
+螣
+縢
+鲭
+鲯
+鲰
+鲺
+鲹
+𫗴
+亸
+癀
+瘭
+𬸦
+羱
+糒
+燋
+熻	
+燊
+燚
+燏
+濩
+濋
+澪
+澽
+澴
+澭
+澼
+憷
+憺
+懔
+黉
+嬛
+鹨
+翯
+𫄷
+璱
+𤩽
+璬
+璮
+髽
+擿
+薿
+薸
+檑
+櫆
+檞
+醨
+繄
+磹
+磻
+瞫
+瞵
+蹐
+蟏
+㘎
+𬭳
+镤
+𬭶
+𫔍
+镥
+镨
+𬭸
+𨱔
+𬭼
+𫔎
+矰
+穙
+穜
+穟
+簕
+簃
+簏
+儦
+魋
+斶
+艚
+𬸪
+谿
+䲠
+𬶟
+鲾
+𬶠
+鲿
+鳁
+鳂
+鳈
+鳉
+獯
+䗪
+馘
+襕
+襚
+𬶨
+螱
+甓
+嬬	ji
+嬬	nzio
+嬬	nzu
+嬥	tiau
+𦈡
+𫄸
+瓀
+釐
+鬶
+爇
+鞳
+鞮
+𬟁
+藟
+藦
+藨
+鹲
+檫
+黡
+礞
+礌
+𥖨
+蹢
+蹜
+蟫
+䗴
+嚚
+髃
+镮
+镱
+酂
+噈	cuk
+馧	vut
+簠
+攰	kioi
+诼	duk
+簝
+簰
+鼫
+鼩
+皦
+臑
+䲢
+鳑
+鳒
+鹱
+鹯
+癗
+𦒍
+旞
+翷
+冁
+䎖
+瀔
+瀍
+瀌
+襜
+䴙
+𬙊
+嚭
+㰀
+鬷
+醭
+蹯
+蠋
+翾
+鳘
+儳
+儴
+鼗
+𬶭
+𩾌
+鳚
+鳛
+麑
+麖
+蠃
+彟
+嬿
+鬒
+蘘
+欂
+醵
+颥
+甗
+𨟠
+巇
+酅
+髎
+犨
+𬶮
+𨭉
+㸌
+爔
+瀱
+瀹
+瀼
+瀵
+襫
+孅
+骦
+𬙋
+耰
+𤫉
+瓖
+鬘
+趯
+𬺓
+罍
+鼱
+鳠
+鳡
+鳣
+爟
+爚
+灈
+韂
+糵
+蘼
+礵
+鹴
+躔
+皭
+龢	vo2
+龢	ho2
+鳤
+亹
+籥
+鼷
+𫚭
+玃
+醾
+齇
+觿
+蠼
+巘	jen2
+#
+#语气词，语气词声调用x表示，不标字母，即表示声调可变化
+哦	qo1  
+噢	qo3 
+#
+㖞	vo1
+唩	vo3 
+喔	vo1 
+喔	vo3  
+#
+ヰ	ve1  
+哕	ve2
+ヱ	ve2  
+#
+わ	va1
+哇	va3
+#
+呭	se1   
+セ	se3
+せ	se1  
+#
+ゼ	ze1  
+ぜ	ze3 
+#
+啦	la1  
+ら	la3  
+#
+也	ja1  
+耶	ja3  
+呀	ja3
+吖	ja1
+#
+噜	lu1  
+ル	lu3 
+#
+哟	jo1  
+唷	jo3  
+#
+咯	lo1  
+ろ	lo3
+啰	lo3  
+#
+㖨	luk1 
+咯	lok1
+#
+呜	vu1  
+吁	qu1 
+う	qu1 
+そ	so1
+哼	hng4
+唶	zia1
