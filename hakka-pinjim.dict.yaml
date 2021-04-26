@@ -30,6 +30,7 @@ import_tables:
     - places #地名 
     - sougou #搜狗基础词汇典
     - google-words #谷歌常用词集
+    - personal # 个性化词库，你可以在这个词库里添加自己常用的词汇以及特色词汇
 ...
 
 一	jit1
