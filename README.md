@@ -23,7 +23,6 @@ The kakka pronounciation is from lung nzien piang of the lung vun country of the
 
 
  
----
 
 
 其中发音，既收集后生人用的(不太标准的掺杂普通话的客家话发音)，又采集老一辈人的发音以及旧时读书用的读书音(即文读音)，同时也斟酌收录古代客家话读音(主要来自韵书,切韵等)。
