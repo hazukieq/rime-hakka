@@ -1,21 +1,27 @@
 # rime-hakka
-The dictionary of  the kakka dialect of the Gaufung
-
-This dictionary is made by hazuki erii.
 
 广西玉林兴业县高峰乡客家话字典
 
+The dictionary of  the kakka dialect of the Gaufung
+
+
+
 该字典由叶月绘梨依整理同制作。
+
+This dictionary is made by hazuki erii.
+
 
 
 ---
 
  
-## 特此说明
-## Introduction
+## 说明
+
 本客家话字典的发音皆取自于高峰镇龙文村龙源坪。
 
 The kakka pronounciation is from lung nzien piang of the lung vun country of the gaufung.
+
+
  
 ---
 
