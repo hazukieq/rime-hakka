@@ -1,0 +1,188 @@
+#
+---
+name: personal
+version: "2021.04.22"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+哔哩哔哩	bi1 li1 bi1 li1
+哔哩哔哩	bit1 li1 bit1 li1
+bilibili	bi1 li1 bi1 li1
+酷狗音乐	ku4 geu3 jim1 lok2
+酷狗音乐	kuk2 geu3 jim1 lok2
+QQ	kiu1 kiu1	1000
+微信	vui1 thin4	10000
+微信	mi2 thin4	900
+京东
+学习通
+超星通
+易班
+汉典
+电信营业厅
+起点中文
+起点读书
+晋江小说
+同文输入法
+中文输入法
+百度输入法
+搜狗输入法
+同文无障碍输入法
+中国大学慕克
+央视频
+笔趣阁
+知乎
+知网
+当当
+美团
+虎牙直播
+喜马拉雅
+抖音
+快手
+携程
+携程	sie2 sang2	50
+携程	sie2 cin2	50
+携程	sie2 ceng2	50
+腾讯视频
+腾讯视频	ten2 sun4 si4 pin2
+WiFi	vai1 fai1
+wifi	vai1 fai1
+拼多多
+支付宝
+QQ音乐	kiu1 kiu1 jim1 lok2
+爱奇艺	qoi4 ki2 ji4
+爱奇艺	qai4 ki2 ji4
+爱奇艺
+高德地图
+网易云
+腾讯会议
+菜鸟
+铁路12306		tet1 lu4
+百度网盘
+腾讯课堂
+腾讯地图
+微云
+微云	vui1 jun2
+Q	kiu1
+QQ阅读
+滴滴出行
+豆瓣
+贴吧
+微博
+全民K歌	con2 min2 ke1 go1
+讯飞输入法
+讯飞输入法	sun4 fui1 su1 nzip2 fat1
+讯飞	sun4 fui1	100
+讯飞	thin4 fui1	100
+小猿	thiau3 jen2	100
+搜题
+小猿搜题
+极速版
+沪江	fu4 gong1	100
+小红书
+红书
+腾讯	ten2 sun4	1000
+腾讯手机管家
+腾讯手机管家	ten2 sun4 siu3 gi1 gon3 ga1
+腾讯管家	ten2 sun4 gon3 ga1
+腾讯管家
+我个世界
+我的世界
+我的世界	nga1 ge3 si4 gai4
+WiFi万能钥匙	vai1 fai1 van4 nen2 tho3 si2
+WiFi万能钥匙
+高德地图
+钉钉
+钉钉	din1 din1	1000
+钉钉	ding ding
+迅雷	sun4 lui2	100
+迅雷
+闲鱼
+优酷	jiu1 ku4	100
+优酷
+优酷视频	jiu1 ku4 si4 pin2
+优酷视频
+哈啰出行
+哈啰	ha1 lo1	100
+哈啰	ha lo	100
+有道翻译
+今日头条
+百度文库
+文库	vun2 ku4	100
+云闪付
+微信支付
+扫码	thau ma	100
+扫码支付
+谷歌	gu3 go1
+谷歌
+微软	vui1 nzion3
+微软	vui1 nzion1
+微软
+
+#字母个客家读音
+a	qe1
+b	bi1
+c	si1
+d	di1
+e	ji1
+f	qet2 fu3
+g	zi1
+h	qet2 ci3
+i	qai1
+j	ze1
+k	ke1
+l	qel1
+m	qem1
+n	qen1
+o	qeu1
+p	pi
+q	kiu1
+r	qa1
+s	qet2 si3
+t	ti1
+u	jiu1
+v	vi1
+w	da1 bu3 liu1
+x	qet2 kr3 si3
+y	vai1
+z	ji3 set2
+A	qe1
+B	bi1
+C	si1
+D	di1
+E	ji1
+F	qet2 fu3
+G	zi1
+H	qet2 ci3
+I	qai1
+J	ze1
+K	ke1
+L	qel1
+M	qem1
+N	qen1
+O	qeu1
+P	pi
+Q	kiu1
+R	qa1
+S	qet2 si3
+T	ti1
+U	jiu1
+V	vi1
+W	da1 bu1 liu1
+X	qet2 kr3 si3
+Y	vai1
+Z	ji3 set2
+VIP	vi1 qai1 pi1
+vs	vi1 qet2 si3
+M4A1	qem1 thi4 qe1 jit1
+AK47	qe1 ke1 thi4 cit1
+AK	qe1 ke1
+AWM	qe1 da1 bu1 liu1 qem1
+hhhh	ha3 ha3
+听歌识曲	tang1 go1 sit1 kiuk1
+兴业县高级中学	sin1 gau1
+兴业县高级中学
+兴高	sin1 gau1
+玉林高级中学	nziuk2 gau1
+玉林高级中学
+玉高
