@@ -22,7 +22,7 @@
 #
 
 schema:
-  schema_id: hakka_pinyin_sangdiau
+  schema_id: hakka_pinjim_sangdiau
   name: 客家话有声调拼音方案
   version: "0.19"
   author:
