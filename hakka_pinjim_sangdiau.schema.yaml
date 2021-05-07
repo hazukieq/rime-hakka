@@ -114,6 +114,7 @@ translator:
   spelling_hints: 10  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - 'xform ([aeiou])(ng?)([-;/<,>\\]) $1$3$2'
+   - 'xform ([aeiou])(m)([-;/<,>\\]) $1$3$2'
     - 'xform ([aeo])([iu])([-;/<,>\\]) $1$3$2'
     - 'xform a[-;] ā'
     - 'xform a/ á'
