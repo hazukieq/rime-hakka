@@ -24,24 +24,6 @@ use_preset_vocabulary: true
 懵憃	mung4 cung4
 湿溚溚	sip1 dap1 dap1
 酸酘酘	thon1 diu1 diu1
-媞	ti2
-醍	ti2
-绨	ti4
-嗡	qung1
-嗡	vung1
-呔	tai4
-钛	tai4
-忲	tai4
-孺	ji2
-孺	nzu2
-濡	ji2
-濡	nzu2
-蠕	ji2
-蠕	nzu2
-襦	ji2
-襦	nzu2
-啪	pa1
-披	pe1
 𠜱	pe1
 焗	guk2
 焗	kiuk2
@@ -68,23 +50,12 @@ use_preset_vocabulary: true
 王者荣耀	vong2 zia3 jung2 jau4
 穿越火线	con1 nziap2 fo3 then4
 穿越火线	con1 jet2 fo3 then4
-兮	si1
-兮	he1
-兮	hi1
-俟	thi4
-俟	thu4
-转	zon3
 转来	zon3 loi2
 转去	zon3 si4
 落来	lok2 loi2
 落去	lok2 si4
-邋	lap1
-遢	tap1
 邋遢	lap1 tap1
 到下儿	dau4 ha4 r
-廿	nzip2
-卅	tha1
-卅	thap1
 自家	zu2 ga1
 自家	cu4 ga1
 支家	zi2 ga1
@@ -99,24 +70,22 @@ use_preset_vocabulary: true
 做木該	zo4 muk1 gai2
 作該	zok2 gai2
 让边样	nziong4 ben1 nziong4
-宁	nen2
 不啲	bui1 dit2
 非啲	bui1 dit2
 还过	han2 go4
 跟首	gin1 siu3
+跟首	gen1 siu3
 行先	hang2 then1
 傍尾	bong3 mui1
 霎声间	thak2 sang1 gan1
 同紧	tung2 gin3
 一齐	jit1 ce2
-东	dung1
+佟	dung1
 免填	men2 ten2
 免田	men2 ten2
 嘅	ge3
 瘑	go1
 髍	mo1
-浏览器	liu2 lam3 si4
-浏	liu2
 日头	nzit1 teu2
 月光	nziet2 gong1
 天星	ten1 thin1
@@ -165,15 +134,14 @@ use_preset_vocabulary: true
 埳	ham3
 菜地	coi4 ti4
 地阞	ti4 lak2
-阞	lak2
 生地	thang1 ti4
 熟地	suk2 ti4
 黄泥地	vong2 nai2 ti4
 沙地	tha1 ti4
 山地	than1 ti4
-河阞	ho2 lak1
-阞儿	lak1 r
-河阞唇	ho2 lak1 sun2
+河坜	ho2 lak1
+坜儿	lak1 r
+河坜唇	ho2 lak1 sun2
 塘窝	tong2 vo1
 瀑布	pau4 bu4
 瀑泉	pau4 can2
@@ -187,7 +155,7 @@ use_preset_vocabulary: true
 汲水	nguk2 sui3	
 花楼沟
 反洪
-胡阞沟	fu2 lak1 geu1
+胡坜沟	fu2 lak1 geu1
 水涵窿	sui3 ham2 lung1
 净水	ciang4 sui3
 浼水	me4 sui3
@@ -231,10 +199,12 @@ use_preset_vocabulary: true
 唇边	sun2 ben1
 当中	dong1 zung1
 挨近	qai1 kiun1
+挨近	qe1 kiun1
 滴滴转	dit1 dit1 zon3
 扚	dit2
 趁	din1
 角落	gok1 lok1
+角旯	gok1 lok1
 旯	lok1
 间堆	gan4 doi1	
 旧时	kiu4 si2

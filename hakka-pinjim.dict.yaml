@@ -3341,7 +3341,7 @@ import_tables:
 淮	fai2
 淆	ngau2
 渊	jen1
-淫	jin2
+淫	jim2
 渔	ngh2
 淘	tau2
 淳	dun1
@@ -3416,7 +3416,6 @@ import_tables:
 堕	to4
 堕	do4
 随	sui2
-蛋	cun1
 蛋	dan4
 蛋	tan4
 隅	ngeu2
@@ -3502,6 +3501,7 @@ import_tables:
 搔	thau1
 揉	jiu2
 斯	thu1
+期	ki2
 期	ki1
 欺	ki1
 联	len2
@@ -4776,6 +4776,8 @@ import_tables:
 蠕	thai2
 蠕	nziam4
 蠕	nzion1
+蠕	nzu2
+蠕	ji2
 嚼	nziai4
 嚼	ziok1
 嚼	ziau2
@@ -4813,20 +4815,21 @@ import_tables:
 弋	jit
 孑	get1
 孓	gut1
-幺	jau
-亓	ki
+幺	jau1
+亓	ki2
 韦	vui2
 廿	nzip2
 丏	men3
-卅	thap
-卅	tha
-仄	zet
-厄	qak
-厄	ngo
-仃	den
-仃	din
-仉	gi
-仂	lit
+卅	thap1
+卅	tha1
+仄	zet1
+厄	qak2
+厄	ngo2
+仃	den1
+仃	din1
+仉	gi1
+仂	lit2
+兮	ge1
 兮	hi1
 兮	he1
 兮	si1
@@ -4973,11 +4976,12 @@ import_tables:
 邬	qu
 邬	vu
 饧	tong
-汕	than
+汕	than1
 汔	hat
-汐	cit
-汲	gip
-汲	kip
+汐	cit1
+㳌	qap1
+汲	gip1
+汲	kip1
 汜	thu
 汊	ca
 忖	cun
@@ -4987,8 +4991,10 @@ import_tables:
 讵	ki
 讵	ku
 祁	ki
-讷	nap
-聿	lut
+汲	nguk2
+扱	gep1
+讷	nap1
+聿	lut2
 艮	gen
 艮	gan
 艮	gin
@@ -5047,33 +5053,34 @@ import_tables:
 杓	sok
 杞	ki
 杈	ca
-忑	tet
-忑	tit
-孛	but
+忑	tet1
+忑	tit1
+孛	but1
 邴	biang
 邳	pi
 邳	pui
 矶	gi
 奁	liam
-豕	di
+豕	di1
 豕	si
-忒	tet
-忒	tit
+忒	tet2
+忒	tit2
 欤	ji
-轫	nziun
-迓	nga
+轫	nziun4
+迓	nga2
 邶	pui
-忐	tan
+忐	tam3
 卣	jiu
-邺	nziap
-旰	gon
-呋	pu
-呋	fu
-呒	mo
+邺	nziap2
+旰	gon1
+呋	pu1
+呋	fu1
+呒	mo1
 呒	mu
-呓	nzi
-呔	tai
-呖	lit
+呓	nzi4
+呔	tai4
+忲	tai4
+呖	lit2
 呃	qak1
 旸	jong
 吡	bit
@@ -5422,6 +5429,7 @@ import_tables:
 佾	jit1
 佾	qit1
 侪	cai2
+侪	tha2
 佼	gau1
 佼	gau3
 佯	jong2
@@ -5795,7 +5803,7 @@ import_tables:
 贶	song
 贶	thung
 钚	but
-钛	tai
+钛	tai4
 钡	bui
 钣	ban
 钤	lang
@@ -5829,6 +5837,7 @@ import_tables:
 俚	li
 皈	gui
 俑	jung
+俟	thi4
 俟	thu4
 逅	qeu4
 逅	geu4
@@ -6664,7 +6673,7 @@ import_tables:
 铳	cung
 铵	qon
 铷	ji
-阞	lak1
+阞	lak2
 氪	ket1
 牾	ngu2
 牾	ngh2
@@ -7345,7 +7354,7 @@ import_tables:
 榉	gi
 楦	sen
 楣	mi
-楹	jin
+楹	jin2
 椽	jen
 椽	con
 裘	giu2
@@ -7517,9 +7526,9 @@ import_tables:
 腭	ngok2
 腧	ji
 塍	sun
-媵	jin
-媵	jang
-詹	zam
+媵	jin4
+媵	jang4
+詹	zam1
 鲅	bat
 鲆	pin
 鲇	nziam
@@ -8551,6 +8560,7 @@ import_tables:
 癍	ban1
 麋	mi2
 懑	man
+濡	nzu2
 濡	nziu2
 濡	nzio2
 濡	nzi2
@@ -8667,7 +8677,7 @@ import_tables:
 醮	ziau1
 醯	si
 酃	lin
-霪	jin2
+霪	jim2
 霭	qoi3
 霨	vui4
 黼	pu
@@ -8713,10 +8723,10 @@ import_tables:
 瀚	han4
 瀣	hai4
 瀛	jin
-襦	nzu
-襦	nzio
-襦	nzi
-襦	ji
+襦	nzu2
+襦	nzio2
+襦	nzi2
+襦	ji2
 谶	cim1
 襞	piak
 骥	ki4
@@ -9780,7 +9790,7 @@ import_tables:
 祼	gon
 婻
 媆
-媞
+媞	ti2
 㛹
 媓
 媂
